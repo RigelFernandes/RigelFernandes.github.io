@@ -1,6 +1,6 @@
 ---
 title: Rigel Fernandes
-author: Rigel Fernandes
+author: Short bio
 date: 2022-02-04
 category: Jekyll
 layout: post
