@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Home
+longtitle:        Home
+author:           Rigel Fernandes
+email:            rigelfernandes@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Site com as disciplinas que o Prof. Rigel Fernandes ministra no Ibmec/RJ.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+# disqushandler:            RigelFernandes
 
 exclude:
   - _drafts
