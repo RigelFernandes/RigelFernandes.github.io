@@ -1,5 +1,5 @@
 ---
-title: IBM3118 - Sistemas Embarcados
+title: IBM3118 - Sistemas Embarcados e IoT
 author: Rigel Fernandes
 date: 2017-06-24
 category: Jekyll
