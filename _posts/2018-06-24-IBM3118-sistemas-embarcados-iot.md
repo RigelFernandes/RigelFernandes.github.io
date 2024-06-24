@@ -1,7 +1,7 @@
 ---
 title: IBM3118 - Sistemas Embarcados
 author: Rigel Fernandes
-date: 2024-06-24
+date: 2017-06-24
 category: Jekyll
 layout: post
 ---
