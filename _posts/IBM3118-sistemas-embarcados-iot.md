@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: IBM3118 - Sistemas Embarcados
 author: Rigel Fernandes
-date: 2019-04-27
+date: 2024-06-24
 category: Jekyll
 layout: post
 ---
@@ -11,6 +11,8 @@ and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
 is building HTML files locally and then push to Github repository, usually to the `gh-pages`
 branch. However, it's quite annoying to repeat such workload and make it hard for people do
 version control via git for when there are generated HTML files to be staged in and out.
+
+### Introduction
 
 This theme takes style definition out of generated GitBook site and provided the template
 for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
