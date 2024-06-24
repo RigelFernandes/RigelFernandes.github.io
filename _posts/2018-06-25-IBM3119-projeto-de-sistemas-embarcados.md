@@ -60,15 +60,7 @@ long contents .....
 
 ### Models of computation
 
-Then you can use mermaid syntax in your markdown:
-
-```
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+Example of a state diagram:
 
 ```mermaid
 graph TD;
@@ -78,7 +70,7 @@ graph TD;
     C-->D;
 ```
 
-Or, even some complex examples:
+Sequence diagram:
 
 ```
 sequenceDiagram
