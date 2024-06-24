@@ -1,9 +1,10 @@
 ---
-title: IBM3119 Projeto de Sistemas Embarcados
+title: IBM3119 - Projeto de Sistemas Embarcados
 author: Rigel Fernandes
 date: 2018-06-25
 category: Jekyll
 layout: post
+mermaid: true
 ---
 
 The jekyll-gitbook theme leverages [jekyll-toc][1] to generate the *Contents* for the page.
@@ -57,7 +58,55 @@ long contents .....
 3. c
 4. d
 
-### Sub title 1
+### Models of computation
+
+Then you can use mermaid syntax in your markdown:
+
+```
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+Or, even some complex examples:
+
+```
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
 
 ### Sub title 2
 
