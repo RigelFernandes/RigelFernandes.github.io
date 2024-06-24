@@ -12,7 +12,15 @@ is building HTML files locally and then push to Github repository, usually to th
 branch. However, it's quite annoying to repeat such workload and make it hard for people do
 version control via git for when there are generated HTML files to be staged in and out.
 
-### Introduction
+### Chapter 1: Introduction
+-------------
+
+long contents .....
+
+1. a
+2. b
+3. c
+4. d
 
 This theme takes style definition out of generated GitBook site and provided the template
 for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
@@ -21,7 +29,7 @@ changes to the original repository.
 
 [1]: https://pages.github.com
 
-### History of Terms
+#### History of Terms
 
 Using a `{: .block-tip}` attribute:
 
@@ -39,7 +47,7 @@ Using a `{: .block-tip}` attribute:
 > this or a similar version after installation.
 {: .block-tip }
 
-### Opportunities
+#### Opportunities
 
 Using a `{: .block-tip}` attribute:
 
