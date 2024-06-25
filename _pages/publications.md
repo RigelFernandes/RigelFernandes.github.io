@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549)
+[1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"}
 
 [2] Rigel Procópio Fernandes, Antonio Juarez Alencar, Eber Assis Schmitz, and Alexandre Luis Correa, “Analysing IT investments in the public sector: A project portfolio approach,” Journal of Software, vol. 9, no. 7, pp. 1687–1700, 2014. Available: [https://doi.org/10.4304/jsw.9.7.1687-1700](https://doi.org/10.4304/jsw.9.7.1687-1700){:target="_blank"}
 
