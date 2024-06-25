@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-https://sighingnow.github.io/jekyll-gitbook/assets/gitbook/images/email.png
+https://rigelfernandes.github.io/assets/gitbook/images/email.png
