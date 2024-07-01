@@ -52,7 +52,7 @@ Using a `{: .block-tip}` attribute:
 ## Summary
 
 
-## Questions
+## Problems
 
 > ##### TIP
 >
