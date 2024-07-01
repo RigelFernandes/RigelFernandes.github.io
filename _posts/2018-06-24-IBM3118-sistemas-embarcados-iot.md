@@ -14,7 +14,6 @@ Gitbook designed to serve as a source of information to students of the discipli
 -------------
 
 This Chapter presents definitions, applications, challenges, and common characteristics of Embedded Systems and Internet of Things. In addition, educational aspects of this discipline and the structure of this book are introduced.
-[1]: https://pages.github.com
 
 ## History of Terms
 
