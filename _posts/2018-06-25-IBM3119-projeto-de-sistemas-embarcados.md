@@ -1,5 +1,5 @@
 ---
-title: IBM3119 - Projeto de Sistemas Embarcados
+title: IBM3119 - Design of Embedded Systems
 author: Rigel Fernandes
 date: 2018-06-25
 category: Jekyll
