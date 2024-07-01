@@ -11,7 +11,7 @@ The jekyll-gitbook theme leverages [jekyll-toc][1] to generate the *Contents* fo
 The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
 configuration in `_config.yml`:
 
-```matlab
+```Matlab
 clear; close all; clc;
     [x,fs] = audioread('file.wav')
 ```
