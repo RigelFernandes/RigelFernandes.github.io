@@ -15,7 +15,7 @@ Gitbook designed to serve as an additional source of information to students of 
 
 This Chapter presents definitions, applications, challenges, and common characteristics of Embedded Systems and Internet of Things. In addition, educational aspects of this discipline and the structure of this book are introduced.
 
-## History of Terms
+## Definitions
 
 Using a `{: .block-tip}` attribute:
 
