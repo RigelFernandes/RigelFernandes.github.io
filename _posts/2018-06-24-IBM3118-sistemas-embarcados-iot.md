@@ -1,5 +1,5 @@
 ---
-title: IBM3118 - Sistemas Embarcados e IoT
+title: IBM3118 - Embedded Systems and IoT
 author: Rigel Fernandes
 date: 2017-06-24
 category: Jekyll
@@ -47,7 +47,7 @@ Using a `{: .block-tip}` attribute:
 > this or a similar version after installation.
 {: .block-tip }
 
-## Opportunities
+## Applications
 
 Using a `{: .block-tip}` attribute:
 
@@ -58,6 +58,15 @@ Using a `{: .block-tip}` attribute:
 > this or a similar version after installation.
 {: .block-tip }
 ```
+
+## Challenges
+
+## Common Characteristics
+
+## Summary
+
+
+## Questions
 
 > ##### TIP
 >
