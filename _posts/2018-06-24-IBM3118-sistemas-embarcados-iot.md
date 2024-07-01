@@ -8,7 +8,7 @@ layout: post
 
 -------------
 
-Gitbook designed to serve as a source of information to students of the discipline IBM3118 Embedded Systems and IoT at Ibmec.
+Gitbook designed to serve as an additional source of information to students of the discipline IBM3118 Embedded Systems and IoT at Ibmec.
 
 # Chapter 1: Introduction
 -------------
