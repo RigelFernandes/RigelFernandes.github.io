@@ -12,7 +12,7 @@ layout: post
 
 [12] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “A reduced complexity acoustic-based 3D DoA estimation with zero cyclic sum,” Sensors, vol. 24, no. 7, pp. 2344, 2024. Available: [https://doi.org/10.3390/s24072344](https://doi.org/10.3390/s24072344){:target="_blank"}
 
-[11] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “Enhancing TDE-based drone DoA estimation with genetic algorithms and zero cyclic sum,” in XVI Brazilian Conference on Computational Intelligence, Salvador, BA, Brazil, 8-11 October 2023, Congresso Brasileiro de Inteligẽncia Computacional. Available: [http://dx.doi.org/10.21528/CBIC2023-115](http://dx.doi.org/10.21528/CBIC2023-115){:target="_blank"}
+[11] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “Enhancing TDE-based drone DoA estimation with genetic algorithms and zero cyclic sum,” in XVI Brazilian Conference on Computational Intelligence, Salvador, BA, Brazil, 8-11 October 2023, Congresso Brasileiro de Inteligência Computacional. Available: [http://dx.doi.org/10.21528/CBIC2023-115](http://dx.doi.org/10.21528/CBIC2023-115){:target="_blank"}
 
 [10] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., António Luiz Lopes Ramos, and José Manoel de Seixas, “Applying the majority voting rule in acoustic detection and classification of drones,” in Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Fortaleza, CE, Brazil, 26-29 September 2021, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2021.1570726624](https://doi.org/10.14209/sbrt.2021.1570726624){:target="_blank"}
 
