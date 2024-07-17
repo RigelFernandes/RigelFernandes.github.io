@@ -35,6 +35,8 @@ clear; close all; clc;
 
 ### Finite-state machines
 
+A state machine is a model with discret dynamics. In this model it is possible to have finite states. If the number of states is relaively small, the FSM can be represented using graphical notation. For instance, $states = {stateA, stateB, stateC, stateD}$
+
 Example of a state diagram:
 
 ```mermaid
