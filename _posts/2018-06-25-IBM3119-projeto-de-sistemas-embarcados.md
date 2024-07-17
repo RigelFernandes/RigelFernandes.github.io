@@ -16,24 +16,38 @@ clear; close all; clc;
     [x,fs] = audioread('file.wav')
 ```
 
-Chapter 1: Introduction
+# Chapter 1: Requirements, specifications, and modeling
 -------------
+
+## Continuous dynamics
+
+## Discrete dynamics
+
+## Hybrid systems
+
+## Composition of state machines
+
+## Concurrent models of computation
+
+## Conclusions
 
 long contents .....
 
 1. a
 2. b
-3. c
-4. d
 
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Chapter 2: Sensors
+Chapter 2: Analysis, verification, and optimization
 -------------
+
+## Invariants and temporal logic
+
+## Equivalence and refinement
+
+## Quantitative Analysis
+
+## Security and privacy
+
+## Conclusion
 
 long contents .....
 
