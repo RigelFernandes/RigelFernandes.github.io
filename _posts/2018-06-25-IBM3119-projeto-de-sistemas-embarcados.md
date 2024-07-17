@@ -21,57 +21,6 @@ clear; close all; clc;
 
 ## Continuous dynamics
 
-## Discrete dynamics
-
-## Hybrid systems
-
-## Composition of state machines
-
-## Concurrent models of computation
-
-## Conclusions
-
-long contents .....
-
-1. a
-2. b
-
-Chapter 2: Analysis, verification, and optimization
--------------
-
-## Invariants and temporal logic
-
-## Equivalence and refinement
-
-## Quantitative Analysis
-
-## Security and privacy
-
-## Conclusion
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Chapter 3: Actuators
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
 ### Models of computation
 
 Example of a state diagram:
@@ -100,24 +49,32 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-### Sub title 2
+## Discrete dynamics
 
-### Sub title 3
+## Hybrid systems
 
-Appendix 3: Embedded System for Acoustics
--------------
+## Composition of state machines
+
+## Concurrent models of computation
+
+## Conclusions
 
 long contents .....
 
 1. a
 2. b
-3. c
-4. d
 
-### Sub title 1
+Chapter 2: Analysis, verification, and optimization
+-------------
 
-### Sub title 2
+## Invariants and temporal logic
 
-### Sub title 3
+## Equivalence and refinement
+
+## Quantitative Analysis
+
+## Security and privacy
+
+## Conclusion
 
 [1]: https://github.com/allejo/jekyll-toc
