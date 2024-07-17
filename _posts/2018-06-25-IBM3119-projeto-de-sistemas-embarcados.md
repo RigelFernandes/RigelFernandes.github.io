@@ -64,7 +64,7 @@ long contents .....
 1. a
 2. b
 
-Chapter 2: Analysis, verification, and optimization
+# Chapter 2: Analysis, verification, and optimization
 -------------
 
 ## Invariants and temporal logic
