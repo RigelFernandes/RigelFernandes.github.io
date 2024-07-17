@@ -38,7 +38,7 @@ clear; close all; clc;
 A state machine is a model with discret dynamics. In this model it is possible to have finite states. If the number of states is relaively small, the FSM can be represented using graphical notation. For instance, $states = \{stateA, stateB, stateC, stateD\}$
 
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+$$x = \{{-b \pm \sqrt{b^2-4ac} \over 2a}\}.$$
 
 Example of a state diagram:
 
