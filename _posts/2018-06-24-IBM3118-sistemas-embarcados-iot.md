@@ -17,6 +17,10 @@ This Chapter presents definitions, applications, challenges, and common characte
 
 ## Definitions
 
+### Embedded systems
+
+### Internet of things
+
 Using a `{: .block-tip}` attribute:
 
 ```markdown
@@ -49,7 +53,7 @@ Using a `{: .block-tip}` attribute:
 
 ## Common Characteristics
 
-## Summary
+## Conclusion
 
 
 ## Problems
@@ -59,3 +63,48 @@ Using a `{: .block-tip}` attribute:
 > This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
 > this or a similar version after installation.
 {: .block-tip }
+
+
+# Hardware
+
+## Models of sensors and actuators
+
+### Common sensors
+
+### Actuators
+
+## A/D converter
+
+### Flash ADC
+
+### Successive-approximation ADC
+
+## D/A Converter
+
+### DAC
+
+### PWM
+
+## Platforms
+
+### Arduino
+
+### Raspberry
+
+### ESP-32
+
+### Smartphone as an IoT platform
+
+## Conclusion
+
+# Data communication protocols for IoT
+
+## MQTT
+
+## CoAP
+
+## AMQP
+
+## Comparative analysis of IoT protocols
+
+## Conclusion
