@@ -125,3 +125,7 @@ sequenceDiagram
 ## Comparative analysis of IoT protocols
 
 ## Conclusion
+
+# Chapter 4: Digital signal processing
+
+# Chapter 5: Embedded machine learning
