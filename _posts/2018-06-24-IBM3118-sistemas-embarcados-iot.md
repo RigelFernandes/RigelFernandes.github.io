@@ -65,7 +65,7 @@ Using a `{: .block-tip}` attribute:
 {: .block-tip }
 
 
-# Hardware
+# Chapter 2:  Hardware
 
 ## Models of sensors and actuators
 
@@ -97,7 +97,7 @@ Using a `{: .block-tip}` attribute:
 
 ## Conclusion
 
-# Data communication protocols for IoT
+# Chapter 3: Data communication protocols for IoT
 
 ## MQTT
 
