@@ -11,34 +11,16 @@ mermaid: true
 
 Gitbook designed to serve as an additional source of information to students of the discipline IBM3118 Embedded Systems and IoT at Ibmec.
 
-# Chapter 1: Introduction
+# 1. Introduction
 -------------
 
 This Chapter presents definitions, applications, challenges, and common characteristics of Embedded Systems and Internet of Things. In addition, educational aspects of this discipline and the structure of this book are introduced.
 
-## Definitions
+## 1.1 Definitions
 
-### Embedded systems
+### 1.1.1 Embedded systems
 
-### Internet of things
-
-Using a `{: .block-tip}` attribute:
-
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
-
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-
-## Applications
+### 1.1.2 Internet of things
 
 Using a `{: .block-tip}` attribute:
 
@@ -50,14 +32,31 @@ Using a `{: .block-tip}` attribute:
 {: .block-tip }
 ```
 
-## Challenges
+> ##### TIP
+>
+> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
+> this or a similar version after installation.
+{: .block-tip }
 
-## Common Characteristics
+## 1.2 Applications
 
-## Conclusion
+Using a `{: .block-tip}` attribute:
 
+```markdown
+> ##### TIP
+>
+> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
+> this or a similar version after installation.
+{: .block-tip }
+```
 
-## Problems
+## 1.3 Challenges
+
+## 1.4 Common Characteristics
+
+## 1.5 Conclusion
+
+## 1.6Problems
 
 > ##### TIP
 >
@@ -66,41 +65,41 @@ Using a `{: .block-tip}` attribute:
 {: .block-tip }
 
 
-# Chapter 2:  Hardware
+# 2. Hardware
 
-## Models of sensors and actuators
+## 2.1 Models of sensors and actuators
 
-### Common sensors
+### 2.1.1 Common sensors
 
-### Actuators
+### 2.1.2 Actuators
 
-## A/D converter
+## 2.2 A/D converter
 
-### Flash ADC
+### 2.2.1 Flash ADC
 
-### Successive-approximation ADC
+### 2.2.2 Successive-approximation ADC
 
-## D/A Converter
+## 2.3 D/A Converter
 
-### DAC
+### 2.3.1 DAC
 
-### PWM
+### 2.3.2 PWM
 
-## Platforms
+## 2.4 Platforms
 
-### Arduino
+### 2.4.1 Arduino
 
-### Raspberry
+### 2.4.2 Raspberry
 
-### ESP-32
+### 2.4.3 ESP-32
 
-### Smartphone as an IoT platform
+### 2.4.4 Smartphone as an IoT platform
 
-## Conclusion
+## 2.5 Conclusion
 
-# Chapter 3: Data communication protocols for IoT
+# 3. Data communication protocols for IoT
 
-## MQTT
+## 3.1 MQTT
 
 MQTT sequence diagram:
 
@@ -118,14 +117,14 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-## CoAP
+## 3.2 CoAP
 
-## AMQP
+## 3.3 AMQP
 
-## Comparative analysis of IoT protocols
+## 3.4 Comparative analysis of IoT protocols
 
-## Conclusion
+## 3.5 Conclusion
 
-# Chapter 4: Digital signal processing
+# 4 Digital signal processing
 
-# Chapter 5: Embedded machine learning
+# 5 Embedded machine learning
