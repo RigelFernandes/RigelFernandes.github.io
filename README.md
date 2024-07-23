@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-O objetivo dessa página é incluir os materiais das disciplinas que leciono no IBMEC/RJ. Vou manter por aqui informações como: materiais das aulas, notas de aula, slides, links para vídeos, gabaritos de exercícios, etc.
+In this GitBook, you will find various resources for the subjects I teach at IBMEC/RJ, including class materials, lecture notes, slides, video links, exercises, and more.
 
-## Disciplinas
+## Courses
 
 [IBM3118 - Sistemas Embarcados e Internet das Coisas](https://rigelfernandes.github.io/jekyll/2017-06-24-IBM3118-sistemas-embarcados-iot.html)
 
