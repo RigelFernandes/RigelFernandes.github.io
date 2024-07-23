@@ -13,7 +13,7 @@ configuration in `_config.yml`:
 
 ```Matlab
 clear; close all; clc;
-    [x,fs] = audioread('file.wav')
+    [x,fs] = audioread('file.wav');
 ```
 
 # Chapter 1: Requirements, specifications, and modeling
