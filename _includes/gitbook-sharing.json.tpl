@@ -22,7 +22,7 @@
 
                 "vk": false,
 
-                "weibo": false
+                "weibo": false,
 
-                {% "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]}
+                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
             },
