@@ -16,24 +16,24 @@ clear; close all; clc;
     [x,fs] = audioread('file.wav');
 ```
 
-# Chapter 1: Requirements, specifications, and modeling
+# 1. Requirements, specifications, and modeling
 -------------
 
-## Continuous dynamics
+## 1.2 Continuous dynamics
 
-### Newtonian Mechanics
+### 1.2.1 Newtonian Mechanics
 
-### Actor models
+### 1.2.2 Actor models
 
-### Properties of systems
+### 1.2.3 Properties of systems
 
-### Feedback control
+### 1.2.4 Feedback control
 
-## Discrete dynamics
+## 1.3 Discrete dynamics
 
-### The notion of state
+### 1.3.1 The notion of state
 
-### Finite-state machines
+### 1.3.2 Finite-state machines
 
 A state machine is a model with discret dynamics. In this model it is possible to have finite states. If the number of states is relaively small, the FSM can be represented using graphical notation. For instance, $states = \{stateA, stateB, stateC, stateD\}$
 
@@ -63,36 +63,36 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-### Extended state machines
+### 1.3.3 Extended state machines
 
-### Nondeterminism
+### 1.3.4 Nondeterminism
 
-### Behaviors and traces
+### 1.3.5 Behaviors and traces
 
-## Hybrid systems
+## 1.4 Hybrid systems
 
-## Composition of state machines
+## 1.5 Composition of state machines
 
-## Concurrent models of computation
+## 1.6 Concurrent models of computation
 
-## Conclusions
+## 1.7 Conclusions
 
 long contents .....
 
 1. a
 2. b
 
-# Chapter 2: Analysis, verification, and optimization
+# 2 Analysis, verification, and optimization
 -------------
 
-## Invariants and temporal logic
+## 2.1 Invariants and temporal logic
 
-## Equivalence and refinement
+## 2.2 Equivalence and refinement
 
-## Quantitative Analysis
+## 2.3 Quantitative Analysis
 
-## Security and privacy
+## 2.4 Security and privacy
 
-## Conclusion
+## 2.5 Conclusion
 
 [1]: https://github.com/allejo/jekyll-toc
