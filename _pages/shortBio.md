@@ -14,6 +14,8 @@ Professor Assistente I, Instituto Brasileiro de Mercado e Capitais, Ibmec
 
 Mestrado em Engenharia de Defesa pelo Instituto Militar de Engenharia (IME) e Doutorando em Engenharia de Defesa pelo Instituto Militar de Engenharia (IME)
 
-Lattes ID: [3943389164397216](https://lattes.cnpq.br/3943389164397216){:target="_blank"}
+ID Lattes: [3943389164397216](https://lattes.cnpq.br/3943389164397216){:target="_blank"}
 
 <span class="fab fa-orcid"/> ORCiD: [0000-0001-5269-2342](https://orcid.org/0000-0001-5269-2342){:target="_blank"}
+
+Scopus: [57194787184](https://www.scopus.com/authid/detail.uri?authorId=57194787184){:target="_blank"}
