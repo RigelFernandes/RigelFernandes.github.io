@@ -23,3 +23,5 @@ ResearchGate: [https://www.researchgate.net/profile/Rigel-Fernandes](https://www
 Scholar: [https://scholar.google.com/citations?user=AVbI0xwAAAAJ](https://scholar.google.com/citations?user=AVbI0xwAAAAJ){:target="_blank"}
 
 Scopus Author ID: [57194787184](https://www.scopus.com/authid/detail.uri?authorId=57194787184){:target="_blank"}
+
+Web of Science ResearcherID: [AAO-6480-2021](https://www.webofscience.com/wos/author/record/AAO-6480-2021){:target="_blank"}
