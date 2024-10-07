@@ -54,8 +54,16 @@ function copyToClipboard15() {
     
   navigator.clipboard.writeText(bibtex).then(function() {
     // alert('BibTeX copied to clipboard!');
-    document.getElementById('copyButton15').style.display = 'none';
+    // document.getElementById('copyButton15').style.display = 'none';
+    // document.getElementById('checkmark15').style.display = 'inline';
+        // Show the checkmark and temporarily change the button text
     document.getElementById('checkmark15').style.display = 'inline';
+    const copyButton = document.getElementById('copyButton');
+    copyButton.innerText = 'Copied BibTeX';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
