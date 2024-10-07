@@ -36,3 +36,26 @@ entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasile
 [2] Rigel Procópio Fernandes, Antonio Juarez Alencar, Eber Assis Schmitz, and Alexandre Luis Correa, “Analysing IT investments in the public sector: A project portfolio approach,” Journal of Software, vol. 9, no. 7, pp. 1687–1700, 2014. Available: [https://doi.org/10.4304/jsw.9.7.1687-1700](https://doi.org/10.4304/jsw.9.7.1687-1700){:target="_blank"}
 
 [1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"}
+
+<button onclick="copyToClipboard()">Copy BibTeX</button>
+
+<script>
+function copyToClipboard() {
+  const bibtex = `@inproceedings{CBIC2023-115,
+author = {Rigel P. Fernandes, Jose A. Apolin\'ario Jr and Jose M. de Seixas},
+title = {Enhancing TDE-based Drone DoA Estimation with Genetic Algorithms and Zero Cyclic Sum},
+pages = {1-7},
+booktitle = {Anais do XVI Congresso Brasileiro de Intelig\^encia Computacional ({CBIC}'2023)},
+editor = {E. Simas and D. D. Ferreira and L. R. Oliveira},
+publisher = {SBIC},
+address = {Salvador, {BA}},
+year = {2023},
+doi = {10.21528/CBIC2023-115}`;
+  
+  navigator.clipboard.writeText(bibtex).then(function() {
+    alert('BibTeX copied to clipboard!');
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+</script>
