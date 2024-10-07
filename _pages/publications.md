@@ -55,7 +55,7 @@ function copyToClipboard15() {
   navigator.clipboard.writeText(bibtex).then(function() {
     // Show the checkmark and temporarily change the button text
     const copyButton = document.getElementById('copyButton15');
-    copyButton15.innerText = 'Copied BibTeX &#10004;';
+    copyButton15.innerHTML = 'Copied BibTeX &#10004;';
     // Revert the button text after 2 seconds
     setTimeout(function() {
       copyButton15.innerText = 'Copy BibTeX';
