@@ -11,9 +11,9 @@ entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasile
 
 [14] José Antonio Apolinário, Jr., António Luiz Lopes Ramos, Rigel Procópio Fernandes, Julio Cesar Duarte, and Marcelo Nogueira de Sousa, “Exploiting reverberation fingerprint for a neural network based acoustic emitter localization,” in 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT), Valletta, Malta, 1-4 July 2024, IEEE, pp. 1–6.
 
-[13] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “A reduced complexity acoustic-based 3D DoA estimation with zero cyclic sum,” Sensors, vol. 24, no. 7, pp. 2344, 2024. Available: [https://doi.org/10.3390/s24072344](https://doi.org/10.3390/s24072344){:target="_blank"}
+[13] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “A reduced complexity acoustic-based 3D DoA estimation with zero cyclic sum,” Sensors, vol. 24, no. 7, pp. 2344, 2024. Available: [https://doi.org/10.3390/s24072344](https://doi.org/10.3390/s24072344){:target="_blank"} <button onclick="copyToClipboard13()">Copy BibTeX</button>
 
-[12] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “Enhancing TDE-based drone DoA estimation with genetic algorithms and zero cyclic sum,” in XVI Brazilian Conference on Computational Intelligence, Salvador, BA, Brazil, 8-11 October 2023, Congresso Brasileiro de Inteligência Computacional. Available: [http://dx.doi.org/10.21528/CBIC2023-115](http://dx.doi.org/10.21528/CBIC2023-115){:target="_blank"}
+[12] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., and José Manoel de Seixas, “Enhancing TDE-based drone DoA estimation with genetic algorithms and zero cyclic sum,” in XVI Brazilian Conference on Computational Intelligence, Salvador, BA, Brazil, 8-11 October 2023, Congresso Brasileiro de Inteligência Computacional. Available: [http://dx.doi.org/10.21528/CBIC2023-115](http://dx.doi.org/10.21528/CBIC2023-115){:target="_blank"} <button onclick="copyToClipboard12()">Copy BibTeX</button>
 
 [11] Rigel Procópio Fernandes, José Antonio Apolinário, Jr., António Luiz Lopes Ramos, and José Manoel de Seixas, “Applying the majority voting rule in acoustic detection and classification of drones,” in XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Fortaleza, CE, Brazil, 26-29 September 2021, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2021.1570726624](https://doi.org/10.14209/sbrt.2021.1570726624){:target="_blank"}
 
@@ -37,21 +37,37 @@ entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasile
 
 [1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"}
 
-<button onclick="copyToClipboard()">Copy BibTeX</button>
-
 <script>
-function copyToClipboard() {
-  const bibtex = `@inproceedings{CBIC2023-115,
-author = {Rigel P. Fernandes, Jose A. Apolin\'ario Jr and Jose M. de Seixas},
-title = {Enhancing TDE-based Drone DoA Estimation with Genetic Algorithms and Zero Cyclic Sum},
-pages = {1-7},
-booktitle = {Anais do XVI Congresso Brasileiro de Intelig\^encia Computacional ({CBIC}'2023)},
-editor = {E. Simas and D. D. Ferreira and L. R. Oliveira},
-publisher = {SBIC},
-address = {Salvador, {BA}},
-year = {2023},
-doi = {10.21528/CBIC2023-115}`;
-  
+function copyToClipboard12() {
+  const bibtex =
+`@inproceedings{fernandes2023enhancing,
+  author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Jos{\'{e}} Manoel de Seixas},
+  title = {Enhancing {TDE-based} drone {DoA} estimation with genetic algorithms and zero cyclic sum},
+  pages = {1-7},
+  booktitle = {XVI Brazilian Conference on Computational Intelligence},
+  year = {2023},
+  address={Salvador, {BA}, Brazil},
+  month={8-11 October},
+  doi = {http://dx.doi.org/10.21528/CBIC2023-115},
+  url = {http://dx.doi.org/10.21528/CBIC2023-115},
+  publisher = {SBIC}
+}`
+
+function copyToClipboard13() {
+  const bibtex =
+`@article{fernandes2024reduced,
+  title={A Reduced Complexity Acoustic-Based {3D DoA} Estimation with Zero Cyclic Sum},
+  author={Fernandes, Rigel Proc{\'o}pio and Apolinário, Jr., José Antonio and de Seixas, José Manoel},
+  journal={Sensors},
+  volume={24},
+  number={7},
+  pages={2344},
+  year={2024},
+  publisher={Multidisciplinary Digital Publishing Institute},
+  url={https://doi.org/10.3390/s24072344},
+  doi={10.3390/s24072344}
+}`
+    
   navigator.clipboard.writeText(bibtex).then(function() {
     alert('BibTeX copied to clipboard!');
   }, function() {
