@@ -229,7 +229,7 @@ function copyToClipboard9() {
   });
 }
 
-function copyToClipboard9() {
+function copyToClipboard8() {
   const bibtex =
 `@article{serrenho2019gunshot,
   title={Gunshot airborne surveillance with rotary wing {UAV}-embedded microphone array},
