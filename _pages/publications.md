@@ -58,11 +58,11 @@ function copyToClipboard15() {
     // document.getElementById('checkmark15').style.display = 'inline';
         // Show the checkmark and temporarily change the button text
     document.getElementById('checkmark15').style.display = 'inline';
-    const copyButton = document.getElementById('copyButton');
-    copyButton.innerText = 'Copied BibTeX';
+    const copyButton = document.getElementById('copyButton15');
+    copyButton15.innerText = 'Copied BibTeX';
     // Revert the button text after 2 seconds
     setTimeout(function() {
-      copyButton.innerText = 'Copy BibTeX';
+      copyButton15.innerText = 'Copy BibTeX';
     }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
