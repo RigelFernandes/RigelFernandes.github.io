@@ -37,23 +37,42 @@ entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasile
 
 [1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"}
 
-<script>
-function copyToClipboard12() {
+<script> 
+function copyToClipboard15() {
   const bibtex =
-`@inproceedings{fernandes2023enhancing,
-  author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Jos{\'{e}} Manoel de Seixas},
-  title = {Enhancing {TDE-based} drone {DoA} estimation with genetic algorithms and zero cyclic sum},
-  pages = {1-7},
-  booktitle = {XVI Brazilian Conference on Computational Intelligence},
-  year = {2023},
-  address={Salvador, {BA}, Brazil},
-  month={8-11 October},
-  doi = {http://dx.doi.org/10.21528/CBIC2023-115},
-  url = {http://dx.doi.org/10.21528/CBIC2023-115},
-  publisher = {SBIC}
+`@inproceedings{assumpcao2024estacionamento,
+  title = {Estacionamento inteligente: uma compara\c{c}\~ao entre sensores ultrass\^onicos e vis\~ao computacional},
+  author = {Hudson Guilherme Vieira Assump\c{c}ão and Caio de Souza de Medeiros and Gabriel dos Santos Perrota Duarte and Henrique Barbosa Dantas Rolan and Rigel Proc{\'o}pio Fernandes},
+  booktitle={XLII Simp\'osio Brasileiro de Telecomunica\c{c}\~oes e Processamento de Sinais},
+  year = {2024},
+  address={Bel\'em, PA, Brazil},
+  month={01-04 October},
+  doi = {},
+  url = {},
+  publisher = {Sociedade Brasileira de Telecomunica{\c{c}}{\~{o}}es}
 }`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    alert('BibTeX copied to clipboard!');
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
-    navigator.clipboard.writeText(bibtex).then(function() {
+function copyToClipboard14() {
+  const bibtex =
+`@inproceedings{fernandes2024exploiting,
+  title={Exploiting reverberation fingerprint for a neural network based acoustic emitter localization},
+  author={Apolinário, Jr., José Antonio and Ramos, Ant{\'o}nio Luiz Lopes and Fernandes, Rigel Proc{\'o}pio and Duarte, Julio Cesar and de Sousa, Marcelo Nogueira},
+  booktitle={2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)},
+  pages={1--6},
+  year={2024},
+  address={Valletta, Malta},
+  month={1-4 July},
+  organization={IEEE}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
     alert('BibTeX copied to clipboard!');
   }, function() {
     alert('Failed to copy text to clipboard.');
@@ -76,6 +95,49 @@ function copyToClipboard13() {
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
+    alert('BibTeX copied to clipboard!');
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard12() {
+  const bibtex =
+`@inproceedings{fernandes2023enhancing,
+  author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Jos{\'{e}} Manoel de Seixas},
+  title = {Enhancing {TDE-based} drone {DoA} estimation with genetic algorithms and zero cyclic sum},
+  pages = {1-7},
+  booktitle = {XVI Brazilian Conference on Computational Intelligence},
+  year = {2023},
+  address={Salvador, {BA}, Brazil},
+  month={8-11 October},
+  doi = {http://dx.doi.org/10.21528/CBIC2023-115},
+  url = {http://dx.doi.org/10.21528/CBIC2023-115},
+  publisher = {SBIC}
+}`
+
+    navigator.clipboard.writeText(bibtex).then(function() {
+    alert('BibTeX copied to clipboard!');
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard11() {
+  const bibtex =
+`@inproceedings{fernandes2021applying,
+  author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Ant{\'{o}}nio Luiz Lopes Ramos and Jos{\'{e}} Manoel de Seixas},
+  title = {Applying the majority voting rule in acoustic detection and classification of drones},
+  booktitle={XXXIV Simp\'osio Brasileiro de Telecomunica\c{c}\~oes e Processamento de Sinais},
+  year = {2021},
+  address={Fortaleza, CE, Brazil},
+  month={26-29 September},
+  doi = {10.14209/sbrt.2021.1570726624},
+  url = {https://doi.org/10.14209/sbrt.2021.1570726624},
+  publisher = {Sociedade Brasileira de Telecomunica{\c{c}}{\~{o}}es}
+}`
+
+    navigator.clipboard.writeText(bibtex).then(function() {
     alert('BibTeX copied to clipboard!');
   }, function() {
     alert('Failed to copy text to clipboard.');
