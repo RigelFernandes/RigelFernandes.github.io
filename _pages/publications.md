@@ -79,7 +79,13 @@ function copyToClipboard14() {
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton14');
+    copyButton14.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton14.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -101,7 +107,13 @@ function copyToClipboard13() {
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton13');
+    copyButton13.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton13.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -123,7 +135,13 @@ function copyToClipboard12() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton12');
+    copyButton12.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton12.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -144,7 +162,13 @@ function copyToClipboard11() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton11');
+    copyButton11.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton11.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -166,7 +190,13 @@ function copyToClipboard10() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton10');
+    copyButton10.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton10.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -187,7 +217,13 @@ function copyToClipboard9() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton9');
+    copyButton9.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton9.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -209,7 +245,13 @@ function copyToClipboard9() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton8');
+    copyButton8.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton8.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -232,7 +274,13 @@ function copyToClipboard7() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton7');
+    copyButton7.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton7.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -254,7 +302,13 @@ function copyToClipboard6() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton6');
+    copyButton6.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton6.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -276,7 +330,13 @@ function copyToClipboard5() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton5');
+    copyButton5.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton5.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -296,7 +356,13 @@ function copyToClipboard4() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton4');
+    copyButton4.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton4.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -317,7 +383,13 @@ function copyToClipboard3() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton3');
+    copyButton3.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton3.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -338,7 +410,13 @@ function copyToClipboard2() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton2');
+    copyButton2.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton2.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
@@ -359,7 +437,13 @@ function copyToClipboard1() {
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX copied to clipboard!');
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton1');
+    copyButton1.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton1.innerText = 'Copy BibTeX';
+    }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
