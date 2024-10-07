@@ -53,6 +53,13 @@ function copyToClipboard12() {
   publisher = {SBIC}
 }`
 
+    navigator.clipboard.writeText(bibtex).then(function() {
+    alert('BibTeX copied to clipboard!');
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+  
 function copyToClipboard13() {
   const bibtex =
 `@article{fernandes2024reduced,
