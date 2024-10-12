@@ -7,7 +7,7 @@ layout: post
 ---
 
 [15] Hudson Guilherme Vieira Assumpção, Caio de Souza de Medeiros, Gabriel dos Santos Perrota Duarte, Henrique Barbosa Dantas Rolan, and Rigel Procópio Fernandes, "Estacionamento inteligente: uma comparação
-entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Belém, PA, Brazil, 01-04 October 2024, Sociedade Brasileira de Telecomunicações. **(Aceito para publicação e já apresentado)** <button id="copyButton15" onclick="copyToClipboard15()">Copy BibTeX</button>
+entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Belém, PA, Brazil, 01-04 October 2024, Sociedade Brasileira de Telecomunicações. [http://dx.doi.org/10.14209/sbrt.2024.1571036315](http://dx.doi.org/10.14209/sbrt.2024.1571036315){:target="_blank"} <button id="copyButton15" onclick="copyToClipboard15()">Copy BibTeX</button>
 
 [14] José Antonio Apolinário, Jr., António Luiz Lopes Ramos, Rigel Procópio Fernandes, Julio Cesar Duarte, and Marcelo Nogueira de Sousa, “Exploiting reverberation fingerprint for a neural network based acoustic emitter localization,” in 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT), Valletta, Malta, 1-4 July 2024, IEEE, pp. 1–6. **(Aceito para publicação e já apresentado)** <button id="copyButton14" onclick="copyToClipboard14()">Copy BibTeX</button>
 
@@ -47,8 +47,8 @@ function copyToClipboard15() {
   year = {2024},
   address={Bel\'em, PA, Brazil},
   month={01-04 October},
-  doi = {},
-  url = {},
+  doi = {10.14209/sbrt.2024.1571036315},
+  url = {http://dx.doi.org/10.14209/sbrt.2024.1571036315},
   publisher = {Sociedade Brasileira de Telecomunica{\c{c}}{\~{o}}es}
 }`
     
