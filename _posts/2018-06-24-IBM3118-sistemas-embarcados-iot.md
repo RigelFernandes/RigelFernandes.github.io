@@ -56,7 +56,7 @@ Using a `{: .block-tip}` attribute:
 
 ## 1.5 Conclusion
 
-## 1.6Problems
+## 1.6 Problems
 
 > ##### TIP
 >
