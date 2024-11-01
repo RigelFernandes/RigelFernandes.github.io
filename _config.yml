@@ -55,7 +55,11 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-
+  
+  courses:
+    output: true
+    permalink: /courses/:path/  # Set the URL path for courses
+    
 page_width: 800px
 
 destination:      ./_site
