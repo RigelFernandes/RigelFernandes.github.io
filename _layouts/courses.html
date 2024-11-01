@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    {%- include head.html -%}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles.css"> <!-- Link to your CSS if needed -->
+</head>
+<body>
+    <div class="book">
+        <div class="toc">
+            <h2>Table of Contents</h2>
+            <ul>
+                {% assign headings = page.content | markdownify | extract_headings %}
+                {% for heading in headings %}
+                    <li><a href="#{{ heading.id }}">{{ heading.text }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <div class="book-body">
+            <div class="book-header" role="navigation">
+                <h1>
+                    <a href=".">{{ page.title }}</a>
+                </h1>
+            </div>
+            <div class="body-inner">
+                {%- include body.html -%}
+            </div>
+        </div>
+    </div>
+    {%- include footer.html -%}
+</body>
+</html>
