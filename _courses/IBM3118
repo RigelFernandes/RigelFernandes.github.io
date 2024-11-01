@@ -5,6 +5,7 @@ date: 2024-11-01
 category: Jekyll
 layout: post
 mermaid: true
+toc: true
 ---
 
 -------------
