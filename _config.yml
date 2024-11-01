@@ -55,7 +55,7 @@ exclude:
 collections:
   pages:
     output: true
-    permalink: /:profile/:path/
+    permalink: /:collections/:path/
   
   courses:
     output: true
