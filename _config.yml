@@ -43,7 +43,8 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+# permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink:                /:title/
 
 # Disqus comments
 # disqushandler:            RigelFernandes
@@ -54,7 +55,7 @@ exclude:
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:profile/:path/
   
   courses:
     output: true
