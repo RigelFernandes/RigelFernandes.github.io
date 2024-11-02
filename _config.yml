@@ -55,7 +55,7 @@ exclude:
 collections:
   about:
     output: true
-    permalink: /:path/
+    permalink: /about/:path/
   
   courses:
     output: true
