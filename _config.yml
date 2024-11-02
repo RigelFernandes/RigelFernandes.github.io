@@ -60,6 +60,10 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/  # Set the URL path for courses
+
+  posts:
+    output: true
+    permalink: /posts/:path/
     
 page_width: 800px
 
