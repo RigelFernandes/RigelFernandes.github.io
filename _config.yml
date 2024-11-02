@@ -53,9 +53,9 @@ exclude:
   - _drafts
 
 collections:
-  pages:
+  about:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
   
   courses:
     output: true
