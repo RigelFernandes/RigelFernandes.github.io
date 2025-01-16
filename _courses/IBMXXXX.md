@@ -1,0 +1,199 @@
+---
+title: IBMXXXX - Computer Vision
+author: Rigel Fernandes
+date: 2025-01-16
+category: Jekyll
+layout: courses
+mermaid: true
+---
+
+Computer vision is an interdisciplinary field that combines concepts from image processing, linear algebra, and machine learning to enable machines to "see" and interpret the visual world.
+From identifying objects in images to reconstructing three-dimensional scenes, computer vision has applications in various areas such as robotics, autonomous vehicles, healthcare, and security.
+
+This course aims to introduce the fundamental principles of computer vision and allow students (with proper skills) to apply classic and modern techniques to solve practical problems.
+The main topics covered include image representation, pattern recognition, preprocessing, high-level processing, and technological tools that support the development of solutions in computer vision.
+
+By the end of the course, students are expected to:
+understand the theoretical foundations of image representation and processing;
+apply algorithms for object and pattern recognition;
+develop practical solutions using modern tools such as OpenCV, TensorFlow, and PyTorch;
+explore computer vision problems in real-world applications, such as segmentation, detection, and object classification.
+
+# Concepts of Image Representation
+
+## Digital Images
+
+A digital image is a discrete representation of a continuous scene from the real world. It is composed of a matrix of pixels, where each pixel has an associated value indicating light intensity (in grayscale) or a combination of colors (in color images).
+
+### Grayscale Images
+
+Each pixel has a value between 0 and 255, where 0 represents black and 255 represents white.
+
+### Color Images
+
+Each pixel is represented by a vector with three components (R, G, B) indicating the intensities of red, green, and blue.
+
+## Color Models
+
+Color models are used to represent chromatic information in images. The most common ones are:
+
+### RGB (Red, Green, Blue)
+
+Additive model where colors are obtained by combining three primary colors.
+
+HSV (Hue, Saturation, Value)
+
+Model that represents color more intuitively, separating hue, saturation, and brightness.
+
+Image File Formats
+
+JPEG
+
+Compresses images using lossy techniques.
+
+PNG
+
+Compresses without losing information.
+
+BMP
+
+Uncompressed format.
+
+General Concepts of Pattern Recognition
+
+Components of Pattern Recognition
+
+Data acquisition: Obtaining images through sensors.
+
+Feature extraction: Identifying relevant attributes such as edges, corners, or homogeneous regions.
+
+Classification: Using algorithms to associate the image with a predefined class.
+
+Classification Algorithms
+
+K-Nearest Neighbors (KNN)
+
+Support Vector Machines (SVM)
+
+Artificial Neural Networks
+
+Model-Based Object Recognition Methods
+
+Template-Based Models
+
+Use predefined object patterns for direct comparison with input images.
+
+Statistical Models
+
+These models use probabilistic distributions to describe object characteristics.
+
+Machine Learning-Based Models
+
+Include supervised learning techniques, such as convolutional neural networks (CNNs), which are widely used for object recognition.
+
+Preprocessing and Filters
+
+Preprocessing Operations
+
+Histogram equalization: Enhances image contrast.
+
+Normalization: Adjusts pixel values to a standard range.
+
+Filters
+
+Mean Filter
+
+Reduces noise by smoothing the image.
+
+Median Filter
+
+Removes impulse noise while preserving edges.
+
+Sobel Filter
+
+Detects edges in an image.
+
+High-Level Processing
+
+Artificial Intelligence Methodologies
+
+Includes the use of machine learning and deep learning techniques for image analysis.
+
+Object Representation
+
+Objects can be represented by:
+
+Geometric Descriptors
+
+Shape, size.
+
+Texture Descriptors
+
+Means, contrasts.
+
+Scene Representation
+
+Involves modeling the relationships between objects in an image.
+
+Architectures for Computer Vision
+
+Centralized Architectures
+
+Where processing is done on a single device.
+
+Distributed Architectures
+
+Where multiple devices share the processing tasks.
+
+Examples of Systems
+
+Embedded systems (smart cameras)
+
+Distributed systems (networks of visual sensors)
+
+Technologies and Tools
+
+Technologies
+
+OpenCV: A widely used open-source library for image processing.
+
+TensorFlow and PyTorch: Popular frameworks for deep learning model training.
+
+MATLAB: A powerful tool for data analysis and image processing.
+
+Tools
+
+LabelImg
+
+Tool for labeling images.
+
+YOLO
+
+Real-time object detection algorithm.
+
+Dlib
+
+Library for machine learning applications, including face detection.
+
+Suggested Exercises
+
+Exercises
+
+Exercise 1
+
+Implement a Sobel filter for edge detection in an image.
+
+Exercise 2
+
+Train a KNN classifier to identify different types of objects in images.
+
+Exercise 3
+
+Use the OpenCV library to segment objects in a scene using thresholding.
+
+Exercise 4
+
+Build a simple convolutional neural network using PyTorch for image classification.
+
+This material covers the main topics of the computer vision course as per the proposed syllabus. If you need more details or specific examples, feel free to ask!
+
