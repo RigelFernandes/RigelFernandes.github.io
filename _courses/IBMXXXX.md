@@ -27,7 +27,7 @@ apply algorithms for object and pattern recognition;
 develop practical solutions using modern tools such as OpenCV, TensorFlow, and PyTorch;
 explore computer vision problems in real-world applications, such as segmentation, detection, and object classification.
 
-# Concepts of Image Representation
+# 2. Concepts of Image Representation
 
 ## Digital Images
 
