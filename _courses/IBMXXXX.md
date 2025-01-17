@@ -7,7 +7,15 @@ layout: courses
 mermaid: true
 ---
 
-Computer vision is an interdisciplinary field that combines concepts from image processing, linear algebra, and machine learning to enable machines to "see" and interpret the visual world.
+-------------
+
+Gitbook designed to serve as an additional source of information to students of the discipline IBM3118 Embedded Systems and IoT at Ibmec.
+
+# 1. Introduction
+-------------
+
+This Chapter introduces concepts of computer vision.
+An interdisciplinary field that combines concepts from image processing, linear algebra, and machine learning to enable machines to "see" and interpret the visual world.
 From identifying objects in images to reconstructing three-dimensional scenes, computer vision has applications in various areas such as robotics, autonomous vehicles, healthcare, and security.
 
 This course aims to introduce the fundamental principles of computer vision and allow students (with proper skills) to apply classic and modern techniques to solve practical problems.
