@@ -41,27 +41,27 @@ Color models are used to represent chromatic information in images. The most com
 
 Additive model where colors are obtained by combining three primary colors.
 
-HSV (Hue, Saturation, Value)
+### HSV (Hue, Saturation, Value)
 
 Model that represents color more intuitively, separating hue, saturation, and brightness.
 
-Image File Formats
+## Image File Formats
 
-JPEG
+### JPEG
 
 Compresses images using lossy techniques.
 
-PNG
+### PNG
 
 Compresses without losing information.
 
-BMP
+### BMP
 
 Uncompressed format.
 
-General Concepts of Pattern Recognition
+# General Concepts of Pattern Recognition
 
-Components of Pattern Recognition
+## Components of Pattern Recognition
 
 Data acquisition: Obtaining images through sensors.
 
@@ -69,7 +69,7 @@ Feature extraction: Identifying relevant attributes such as edges, corners, or h
 
 Classification: Using algorithms to associate the image with a predefined class.
 
-Classification Algorithms
+## Classification Algorithms
 
 K-Nearest Neighbors (KNN)
 
@@ -77,101 +77,101 @@ Support Vector Machines (SVM)
 
 Artificial Neural Networks
 
-Model-Based Object Recognition Methods
+# Model-Based Object Recognition Methods
 
-Template-Based Models
+## Template-Based Models
 
 Use predefined object patterns for direct comparison with input images.
 
-Statistical Models
+## Statistical Models
 
 These models use probabilistic distributions to describe object characteristics.
 
-Machine Learning-Based Models
+## Machine Learning-Based Models
 
 Include supervised learning techniques, such as convolutional neural networks (CNNs), which are widely used for object recognition.
 
-Preprocessing and Filters
+# Preprocessing and Filters
 
-Preprocessing Operations
+## Preprocessing Operations
 
 Histogram equalization: Enhances image contrast.
 
 Normalization: Adjusts pixel values to a standard range.
 
-Filters
+## Filters
 
-Mean Filter
+### Mean Filter
 
 Reduces noise by smoothing the image.
 
-Median Filter
+### Median Filter
 
 Removes impulse noise while preserving edges.
 
-Sobel Filter
+### Sobel Filter
 
 Detects edges in an image.
 
-High-Level Processing
+# High-Level Processing
 
-Artificial Intelligence Methodologies
+## Artificial Intelligence Methodologies
 
 Includes the use of machine learning and deep learning techniques for image analysis.
 
-Object Representation
+### Object Representation
 
 Objects can be represented by:
 
-Geometric Descriptors
+### Geometric Descriptors
 
 Shape, size.
 
-Texture Descriptors
+### Texture Descriptors
 
 Means, contrasts.
 
-Scene Representation
+## Scene Representation
 
 Involves modeling the relationships between objects in an image.
 
-Architectures for Computer Vision
+# Architectures for Computer Vision
 
-Centralized Architectures
+## Centralized Architectures
 
 Where processing is done on a single device.
 
-Distributed Architectures
+## Distributed Architectures
 
 Where multiple devices share the processing tasks.
 
-Examples of Systems
+## Examples of Systems
 
 Embedded systems (smart cameras)
 
 Distributed systems (networks of visual sensors)
 
-Technologies and Tools
+# Technologies and Tools
 
-Technologies
+## Technologies
 
-OpenCV: A widely used open-source library for image processing.
+### OpenCV: A widely used open-source library for image processing.
 
-TensorFlow and PyTorch: Popular frameworks for deep learning model training.
+### TensorFlow and PyTorch: Popular frameworks for deep learning model training.
 
-MATLAB: A powerful tool for data analysis and image processing.
+### MATLAB: A powerful tool for data analysis and image processing.
 
-Tools
+## Tools
 
-LabelImg
+### LabelImg
 
 Tool for labeling images.
 
-YOLO
+### YOLO
 
 Real-time object detection algorithm.
 
-Dlib
+### Dlib
 
 Library for machine learning applications, including face detection.
 
