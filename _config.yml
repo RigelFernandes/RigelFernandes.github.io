@@ -42,6 +42,8 @@ syntax_highlighter_style: colorful
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
+highlighter: rouge
+
 # Permalinks
 # permalink:                /:categories/:year-:month-:day-:title:output_ext
 # permalink:                /:title/
