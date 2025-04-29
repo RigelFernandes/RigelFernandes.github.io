@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[16] Rigel Procópio Fernandes, Marcelo Nogueira de Sousa, Julio Cesar Duarte, José Antonio Apolinário, Jr., António Luiz Lopes Ramos, and José Manoel de Seixas, "Enhancing Sound Source Localization: A Comparative Analysis of TDOA and Reverberation Fingerprints," Optimization and Engineering. **(Submitted in November 2024)**
+[16] Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Rigel P. Fernandes, and Thiago Silva de Souza, "A Computer Vision-Based System for Monitoring Liveness in Remote Work," in XLIII Brazilian Symposium on Telecommunications and Signal Procesing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in April 2025)**
 
 [15] Hudson Guilherme Vieira Assumpção, Caio de Souza de Medeiros, Gabriel dos Santos Perrota Duarte, Henrique Barbosa Dantas Rolan, and Rigel Procópio Fernandes, "Estacionamento inteligente: uma comparação entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Belém, PA, Brazil, 01-04 October 2024, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2024.1571036315](http://doi.org/10.14209/sbrt.2024.1571036315){:target="_blank"} <button id="copyButton15" onclick="copyToClipboard15()">Copy BibTeX</button>
 
