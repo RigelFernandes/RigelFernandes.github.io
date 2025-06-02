@@ -6,6 +6,22 @@ category: Bio
 layout: post
 ---
 
+[24] Arthur Peixoto Schiller, Franc Wang, Juliana de Oliveira S. Sousa, Rigel P. Fernandes, and Thiago Silva de Souza, "Sistema de Monitoramento de Estoques Utilizando Sensor Ultrassônico e Protocolo MQTT," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[22] Paula Luiza Rocha de Oliveira, Guilherme Pinto Weil Bastos, Gabriel Lacerda da Fontoura, Maria Giulia Pessanha, William Fagundes, Rigel P. Fernandes, and Clayton J. A. Silva, "IoT-Based Anti-Theft Alarm Using Reed Switch and MQTT Protocol," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[21] André Coelho, Marceu Filho, Michel Lutegar, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[20] Hudson Assumpção, Rigel P. Fernandes, Anna Beatriz Nunes Barbosa, and Pedro Henrique Portugal Gusman, "Vision-Based fatigue detection using a smartphone," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[19] Raphael Serraino Theil Meres, Thiago Silva de Souza, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[18] Caio de Souza de Medeiros e Rigel P. Fernandes, "Detecção de Vagas de Estacionamento Baseada em Visão Computacional com Mínima Intervenção Humana," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
+[17] Daniel do N. Gripa Cavalcanti, Bernardo R. B. Loureiro, Rigel P. Fernandes, Cassius M. do C. Figueiredo, and Thiago Silva de Souza, "Near real-time human detection using Wi-Fi signals," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+
 [16] Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Rigel P. Fernandes, and Thiago Silva de Souza, "A Computer Vision-Based System for Monitoring Liveness in Remote Work," in XLIII Brazilian Symposium on Telecommunications and Signal Procesing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in April 2025)**
 
 [15] Hudson Guilherme Vieira Assumpção, Caio de Souza de Medeiros, Gabriel dos Santos Perrota Duarte, Henrique Barbosa Dantas Rolan, and Rigel Procópio Fernandes, "Estacionamento inteligente: uma comparação entre sensores ultrassônicos e visão computacional," in XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Belém, PA, Brazil, 01-04 October 2024, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2024.1571036315](http://doi.org/10.14209/sbrt.2024.1571036315){:target="_blank"} <button id="copyButton15" onclick="copyToClipboard15()">Copy BibTeX</button>
