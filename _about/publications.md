@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[24] Arthur Peixoto Schiller, Franc Wang, Juliana de Oliveira S. Sousa, Rigel P. Fernandes, and Thiago Silva de Souza, "Sistema de Monitoramento de Estoques Utilizando Sensor Ultrassônico e Protocolo MQTT," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
+[24] Arthur Peixoto Schiller, Franc Wang, Juliana de Oliveira S. Sousa, Rigel P. Fernandes, and Thiago Silva de Souza, "Sistema de Monitoramento de Estoques Utilizando Sensor Ultrassônico e Protocolo MQTT," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in June 2025)**
 
 [23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in May 2025)**
 
