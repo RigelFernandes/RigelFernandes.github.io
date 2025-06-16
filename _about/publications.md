@@ -6,9 +6,9 @@ category: Bio
 layout: post
 ---
 
-[26] Rafael F. de A. S. Lima, Bernardo R. B. Loureiro, Lucca Lanzellotti, João P. Alencar, Thiago Silva de Souza, and Rigel P. Fernandes, "Analyzing Demographic and Behavioral Factors Associated with Credit Card Default Risk,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2023, Congresso Brasileiro de Inteligência Computacional.
+[26] Rafael F. de A. S. Lima, Bernardo R. B. Loureiro, Lucca Lanzellotti, João P. Alencar, Thiago Silva de Souza, and Rigel P. Fernandes, "Analyzing Demographic and Behavioral Factors Associated with Credit Card Default Risk,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional.
 
-[25] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2023, Congresso Brasileiro de Inteligência Computacional.
+[25] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional.
 
 [24] Arthur Peixoto Schiller, Franc Wang, Juliana de Oliveira S. Sousa, Rigel P. Fernandes, and Thiago Silva de Souza, "Sistema de Monitoramento de Estoques Utilizando Sensor Ultrassônico e Protocolo MQTT," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Submitted in June 2025)**
 
