@@ -6,6 +6,8 @@ category: Bio
 layout: post
 ---
 
+[27] Breno Gomes Storch, Rigel P. Fernandes e Allyson Andrade da Silva, "Estudo comparativo de algoritmos aplicados à navegação de veículos de superfície não tripulados,” in XXVII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2025, São José dos Campos, SP, Brazil, 23-25 de setembro 2025. **(Submitted in June 2025)**
+
 [26] Rafael F. de A. S. Lima, Bernardo R. B. Loureiro, Lucca Lanzellotti, João P. Alencar, Thiago Silva de Souza, and Rigel P. Fernandes, "Analyzing Demographic and Behavioral Factors Associated with Credit Card Default Risk,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. **(Submitted in June 2025)**
 
 [25] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. **(Submitted in June 2025)**
