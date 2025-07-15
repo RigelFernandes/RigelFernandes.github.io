@@ -29,3 +29,5 @@ Scopus Author ID: [57194787184](https://www.scopus.com/authid/detail.uri?authorI
 Web of Science ResearcherID: [AAO-6480-2021](https://www.webofscience.com/wos/author/record/AAO-6480-2021){:target="_blank"}
 
 SciProfiles: [826491](https://sciprofiles.com/profile/826491){:target="_blank"}
+
+DBLP: [132/6105](https://dblp.org/pid/132/6105.html){:target="_blank"}
