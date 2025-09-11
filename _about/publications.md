@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems. **(Submitted in Septembrer)**
+[25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems. **(Submitted in September)**
 
 [24] Breno Gomes Storch, Rigel P. Fernandes e Allyson Andrade da Silva, "Estudo comparativo de algoritmos aplicados à navegação de veículos de superfície não tripulados,” in XXVII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2025, São José dos Campos, SP, Brazil, 23-25 de setembro 2025. **(Accepted for publication)**
 
