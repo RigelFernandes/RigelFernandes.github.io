@@ -62,7 +62,7 @@ Rigel Procópio Fernandes, "Acoustic-based drone localization and DOA estimation
 
 Master dissertation 
 
-Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais captados por um VANT", Dissertation (Master’s in Defense Engineering) — Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, 2017. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"} <button id="copyButtonThesis" onclick="copyToClipboardThesis()">Copy BibTeX</button>
+Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais captados por um VANT", Dissertation (Master’s in Defense Engineering) — Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, 2017. [https://www.repositorio.mar.mil.br/handle/ripcmb/848001]([https://doi.org/10.4304/jsw.8.7.1537-1549](https://www.repositorio.mar.mil.br/handle/ripcmb/848001)){:target="_blank"} <button id="copyButtonThesis" onclick="copyToClipboardThesis()">Copy BibTeX</button>
 
 <script> 
 function copyToClipboard15() {
