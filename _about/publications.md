@@ -465,6 +465,19 @@ function copyToClipboard1() {
   doi={10.4304/jsw.8.7.1537-1549}
 }`
 
+    navigator.clipboard.writeText(bibtex).then(function() {
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButton1');
+    copyButton1.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButton1.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
 function copyToClipboardDissertation1() {
   const bibtex =
 `@mastersthesis{fernandes2017analise,
@@ -477,6 +490,19 @@ function copyToClipboardDissertation1() {
   url={http://bdex.eb.mil.br/jspui/handle/123456789/9096},
   advisor={José Antonio Apolinário and António Luiz Lopes Ramos}
 }`
+
+    navigator.clipboard.writeText(bibtex).then(function() {
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButtonDissertation1');
+    copyButtonDissertation1.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButtonDissertation1.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
 function copyToClipboardThesis() {
   const bibtex =
@@ -492,14 +518,15 @@ function copyToClipboardThesis() {
 
     navigator.clipboard.writeText(bibtex).then(function() {
     // Show the checkmark and temporarily change the button text
-    const copyButton = document.getElementById('copyButton1');
-    copyButton1.innerHTML = 'Copied BibTeX &#10004;';
+    const copyButton = document.getElementById('copyButtonThesis');
+    copyButtonThesis.innerHTML = 'Copied BibTeX &#10004;';
     // Revert the button text after 2 seconds
     setTimeout(function() {
-      copyButton1.innerText = 'Copy BibTeX';
+      copyButtonThesis.innerText = 'Copy BibTeX';
     }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
 }
+  
 </script>
