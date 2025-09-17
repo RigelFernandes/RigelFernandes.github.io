@@ -56,6 +56,14 @@ layout: post
 
 [1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"} <button id="copyButton1" onclick="copyToClipboard1()">Copy BibTeX</button>
 
+Doctoral thesis
+
+Rigel Procópio Fernandes, "Acoustic-based drone localization and DOA estimation for highly noisy environments", 2025. [http://bdex.eb.mil.br/jspui/handle/123456789/9096](http://bdex.eb.mil.br/jspui/handle/123456789/9096){:target="_blank"} <button id="copyButtonDissertation1" onclick="copyToClipboardDissertation1()">Copy BibTeX</button>
+
+Master dissertation 
+
+Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais captados por um VANT", Dissertation (Master’s in Defense Engineering) — Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, 2017. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"} <button id="copyButtonThesis" onclick="copyToClipboardThesis()">Copy BibTeX</button>
+
 <script> 
 function copyToClipboard15() {
   const bibtex =
@@ -455,6 +463,31 @@ function copyToClipboard1() {
   year= {2013},
   url={https://doi.org/10.4304/jsw.8.7.1537-1549},
   doi={10.4304/jsw.8.7.1537-1549}
+}`
+
+function copyToClipboardDissertation1() {
+  const bibtex =
+`@mastersthesis{fernandes2017analise,
+  author={Rigel Procópio Fernandes},
+  title={Análise do movimento de alvos a partir de sinais captados por um VANT},
+  school={Instituto Militar de Engenharia},
+  year={2017},
+  address={Rio de Janeiro, RJ, Brazil},
+  type={Master’s in Defense Engineering},
+  url={http://bdex.eb.mil.br/jspui/handle/123456789/9096},
+  advisor={José Antonio Apolinário and António Luiz Lopes Ramos}
+}`
+
+function copyToClipboardThesis() {
+  const bibtex =
+`@phdthesis{fernandes2025acoustic,
+  author={Rigel Procópio Fernandes},
+  title={Acoustic-based drone localization and DOA estimation for highly noisy environments},
+  school={Instituto Militar de Engenharia},
+  year={2025},
+  address={Rio de Janeiro, RJ, Brazil},
+  month={july},
+  url={https://www.repositorio.mar.mil.br/handle/ripcmb/848001}
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
