@@ -72,10 +72,9 @@
 .ai, .fab {
   margin-left: 5px;
   margin-right: 10px;
-  font-size: 3.0em;
+  font-size: 1.8em;
   vertical-align: middle;
   color: inherit;
-  transition: color 0.3s, transform 0.3s; /* smooth hover */
 }
 
 a .ai, a .fab {
@@ -84,8 +83,6 @@ a .ai, a .fab {
 }
 
 a:hover .ai, a:hover .fab {
-  color: #0077cc;  /* change color on hover */
-  transform: scale(1.2); /* enlarge slightly */
   text-decoration: none;
   color: inherit;
 }
@@ -307,6 +304,7 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 }
+
 
 
 
