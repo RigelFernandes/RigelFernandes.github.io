@@ -70,8 +70,8 @@
 }
 
 .ai, .fab {
-  margin-right: 6px;
-  font-size: 1.2em;
+  margin-right: 10px;
+  font-size: 1.8em;
   vertical-align: middle;
   color: inherit;
 }
@@ -293,3 +293,4 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 }
+
