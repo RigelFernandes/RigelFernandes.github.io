@@ -69,6 +69,13 @@
     right: calc((100% - 300px - min(100% - 300px, {{ site.page_width | default: '800px' }})) / 2 + 25px);
 }
 
+.academic-icons a {
+  text-decoration: none;  /* remove underline */
+  color: inherit;         /* keep icon color default */
+  display: inline-flex;   /* ensures proper alignment */
+  transition: transform 0.3s; /* smooth hover effect */
+}
+
 .ai, .fab {
   margin-left: 5px;
   margin-right: 10px;
@@ -304,6 +311,7 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 }
+
 
 
 
