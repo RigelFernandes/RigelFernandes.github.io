@@ -63,7 +63,9 @@ Rigel Procópio Fernandes, "Acoustic-based drone localization and DOA estimation
 
 ### Master dissertation 
 
-Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais captados por um VANT", Dissertation (Master’s in Defense Engineering) — Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, 2017. [http://bdex.eb.mil.br/jspui/handle/123456789/9096](http://bdex.eb.mil.br/jspui/handle/123456789/9096){:target="_blank"} <button id="copyButtonDissertation1" onclick="copyToClipboardDissertation1()">Copy BibTeX</button>
+Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais captados por um VANT", Dissertation (Master’s in Defense Engineering) — Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, june 2017. [http://bdex.eb.mil.br/jspui/handle/123456789/9096](http://bdex.eb.mil.br/jspui/handle/123456789/9096){:target="_blank"} <button id="copyButtonDissertation1" onclick="copyToClipboardDissertation1()">Copy BibTeX</button>
+
+Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
 function copyToClipboard15() {
@@ -479,6 +481,31 @@ function copyToClipboard1() {
   });
 }
 
+function copyToClipboardThesis() {
+  const bibtex =
+`@phdthesis{fernandes2025acoustic,
+  author={Rigel Procópio Fernandes},
+  title={Acoustic-based drone localization and DOA estimation for highly noisy environments},
+  school={Instituto Militar de Engenharia},
+  year={2025},
+  address={Rio de Janeiro, RJ, Brazil},
+  month={july},
+  url={https://www.repositorio.mar.mil.br/handle/ripcmb/848001}
+}`
+
+    navigator.clipboard.writeText(bibtex).then(function() {
+    // Show the checkmark and temporarily change the button text
+    const copyButton = document.getElementById('copyButtonThesis');
+    copyButtonThesis.innerHTML = 'Copied BibTeX &#10004;';
+    // Revert the button text after 2 seconds
+    setTimeout(function() {
+      copyButtonThesis.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
 function copyToClipboardDissertation1() {
   const bibtex =
 `@mastersthesis{fernandes2017analise,
@@ -505,29 +532,30 @@ function copyToClipboardDissertation1() {
   });
 }
 
-function copyToClipboardThesis() {
+function copyToClipboardDissertation2() {
   const bibtex =
-`@phdthesis{fernandes2025acoustic,
+`@mastersthesis{fernandes2014analise,
   author={Rigel Procópio Fernandes},
-  title={Acoustic-based drone localization and DOA estimation for highly noisy environments},
-  school={Instituto Militar de Engenharia},
-  year={2025},
+  title={Análise do movimento de alvos a partir de sinais captados por um VANT},
+  school={Universidade Federal do Rio de Janeiro},
+  year={2014},
   address={Rio de Janeiro, RJ, Brazil},
-  month={july},
-  url={https://www.repositorio.mar.mil.br/handle/ripcmb/848001}
+  type={Master’s in Informatics},
+  url={http://objdig.ufrj.br/15/teses/826853.pdf},
+  advisor={José Antonio Apolinário and António Luiz Lopes Ramos}
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
     // Show the checkmark and temporarily change the button text
-    const copyButton = document.getElementById('copyButtonThesis');
-    copyButtonThesis.innerHTML = 'Copied BibTeX &#10004;';
+    const copyButton = document.getElementById('copyButtonDissertation2');
+    copyButtonDissertation2.innerHTML = 'Copied BibTeX &#10004;';
     // Revert the button text after 2 seconds
     setTimeout(function() {
-      copyButtonThesis.innerText = 'Copy BibTeX';
+      copyButtonDissertation2.innerText = 'Copy BibTeX';
     }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
   });
 }
-  
+
 </script>
