@@ -74,6 +74,17 @@
   font-size: 1.8em;
   vertical-align: middle;
   color: inherit;
+  transition: color 0.3s, transform 0.3s; /* smooth hover */
+}
+
+/* Hover effect for icons inside links */
+a .ai, a .fab {
+  /* nothing extra here, base style already applied */
+}
+
+a:hover .ai, a:hover .fab {
+  color: #0077cc;  /* change color on hover */
+  transform: scale(1.2); /* enlarge slightly */
 }
 
 /* scrollbar */
@@ -293,4 +304,5 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 }
+
 
