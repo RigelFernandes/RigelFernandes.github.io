@@ -57,11 +57,11 @@ layout: post
 [1] Antonio Juarez Alencar, Rigel Procópio Fernandes, Eber Assis Schmitz, and Alexandre Luis Correa, “Maximizing the appropriation of the intangible benefits yielded by IT investments in the public sector,” Journal of Software, vol. 8, no. 7, pp. 1537–1549, 2013. [https://doi.org/10.4304/jsw.8.7.1537-1549](https://doi.org/10.4304/jsw.8.7.1537-1549){:target="_blank"} <button id="copyButton1" onclick="copyToClipboard1()">Copy BibTeX</button>
 
 # Final works
-## Doctoral thesis
+### Doctoral thesis
 
 Rigel Procópio Fernandes, "Acoustic-based drone localization and DOA estimation for highly noisy environments", Ph.D. thesis, Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, july 2025. [https://www.repositorio.mar.mil.br/handle/ripcmb/848001](https://www.repositorio.mar.mil.br/handle/ripcmb/848001){:target="_blank"} <button id="copyButtonThesis" onclick="copyToClipboardThesis()">Copy BibTeX</button>
 
-## Master dissertation 
+### Master dissertation 
 
 Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais captados por um VANT", Dissertation (Master’s in Defense Engineering) — Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, 2017. [http://bdex.eb.mil.br/jspui/handle/123456789/9096](http://bdex.eb.mil.br/jspui/handle/123456789/9096){:target="_blank"} <button id="copyButtonDissertation1" onclick="copyToClipboardDissertation1()">Copy BibTeX</button>
 
