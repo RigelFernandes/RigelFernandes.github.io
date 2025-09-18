@@ -536,13 +536,13 @@ function copyToClipboardDissertation2() {
   const bibtex =
 `@mastersthesis{fernandes2014analise,
   author={Rigel Procópio Fernandes},
-  title={Análise do movimento de alvos a partir de sinais captados por um VANT},
+  title={Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis},
   school={Universidade Federal do Rio de Janeiro},
   year={2014},
   address={Rio de Janeiro, RJ, Brazil},
   type={Master’s in Informatics},
   url={http://objdig.ufrj.br/15/teses/826853.pdf},
-  advisor={José Antonio Apolinário and António Luiz Lopes Ramos}
+  advisor={Antonio Juarez Alencar and Eber Assis Schmitz}
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
