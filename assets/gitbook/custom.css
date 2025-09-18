@@ -79,12 +79,12 @@
 
 a .ai, a .fab {
   text-decoration: none;
-  color: inherit;
+  color: initial;
 }
 
 a:hover .ai, a:hover .fab {
   text-decoration: none;
-  color: inherit;
+  color: initial !important;
 }
 
 /* scrollbar */
@@ -304,6 +304,7 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 }
+
 
 
 
