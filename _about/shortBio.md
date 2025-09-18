@@ -37,7 +37,7 @@ Rigel Procópio Fernandes is an Assitent Professor at Centro Universitário Ibme
 
 <span class="ai ai-lattes"/>ID Lattes: [3943389164397216](https://lattes.cnpq.br/3943389164397216){:target="_blank"}
 
-<span class="fab fa-orcid"/> ORCiD: [0000-0001-5269-2342](https://orcid.org/0000-0001-5269-2342){:target="_blank"}
+<span class="fab fa-orcid"/>ORCiD: [0000-0001-5269-2342](https://orcid.org/0000-0001-5269-2342){:target="_blank"}
 
 <span class="ai ai-researchgate"/>ResearchGate: [https://www.researchgate.net/profile/Rigel-Fernandes](https://www.researchgate.net/profile/Rigel-Fernandes){:target="_blank"}
 
