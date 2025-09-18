@@ -76,6 +76,12 @@
   transition: transform 0.3s; /* smooth hover effect */
 }
 
+.academic-icons a:hover .ai,
+.academic-icons a:hover .fab {
+  transform: scale(1.2);   /* slight zoom on hover */
+  color: initial !important; /* keep brand color */
+}
+
 .ai, .fab {
   margin-left: 5px;
   margin-right: 10px;
@@ -311,6 +317,7 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 }
+
 
 
 
