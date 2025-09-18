@@ -14,12 +14,12 @@ Rigel Procópio Fernandes is an Assitent Professor at Centro Universitário Ibme
 
 <span class="ai ai-researchgate"/>ResearchGate: [https://www.researchgate.net/profile/Rigel-Fernandes](https://www.researchgate.net/profile/Rigel-Fernandes){:target="_blank"}
 
-Scholar: [https://scholar.google.com/citations?user=AVbI0xwAAAAJ](https://scholar.google.com/citations?user=AVbI0xwAAAAJ){:target="_blank"}
+<span class="ai ai-google-scholar"/>Scholar: [https://scholar.google.com/citations?user=AVbI0xwAAAAJ](https://scholar.google.com/citations?user=AVbI0xwAAAAJ){:target="_blank"}
 
-Scopus Author ID: [57194787184](https://www.scopus.com/authid/detail.uri?authorId=57194787184){:target="_blank"}
+<span class="ai ai-scopus"/>Scopus Author ID: [57194787184](https://www.scopus.com/authid/detail.uri?authorId=57194787184){:target="_blank"}
 
-Web of Science ResearcherID: [AAO-6480-2021](https://www.webofscience.com/wos/author/record/AAO-6480-2021){:target="_blank"}
+<span class="ai ai-publons"/>Web of Science ResearcherID: [AAO-6480-2021](https://www.webofscience.com/wos/author/record/AAO-6480-2021){:target="_blank"}
 
-SciProfiles: [826491](https://sciprofiles.com/profile/826491){:target="_blank"}
+<span class="ai ai-researcherid"/>SciProfiles: [826491](https://sciprofiles.com/profile/826491){:target="_blank"}
 
-DBLP: [132/6105](https://dblp.org/pid/132/6105.html){:target="_blank"}
+<span class="ai ai-dblp" aria-hidden="true"></span>DBLP: [132/6105](https://dblp.org/pid/132/6105.html){:target="_blank"}
