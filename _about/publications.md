@@ -243,12 +243,11 @@ function copyToClipboard16() {
 `@inproceedings{storch2025estudo,
   title = {Estudo comparativo de algoritmos aplicados à navegação de veículos de superfície não tripulados},
   author = {Breno Gomes Storch and Rigel P. Fernandes and Allyson Andrade da Silva},
+  issn = {1983-7402},
   booktitle={XXVII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE},
   year = {2025},
   address={São José dos Campos, SP, Brazil},
-  month={23-25 September},
-  publisher = {Instituto de Estudos Avançados (IEAv)},
-  note = {(Accepted for publication)}
+  month={23-25 September}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
