@@ -10,19 +10,19 @@ layout: post
 
 [24] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. **(Accepted for publication)**
 
-[23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton23" onclick="copyToClipboard23()">Copy BibTeX</button>
 
-[22] Paula Luiza Rocha de Oliveira, Guilherme Pinto Weil Bastos, Gabriel Lacerda da Fontoura, Maria Giulia Pessanha, William Fagundes, Rigel P. Fernandes, and Clayton J. A. Silva, "IoT-Based Anti-Theft Alarm Using Reed Switch and MQTT Protocol," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[22] Paula Luiza Rocha de Oliveira, Guilherme Pinto Weil Bastos, Gabriel Lacerda da Fontoura, Maria Giulia Pessanha, William Fagundes, Rigel P. Fernandes, and Clayton J. A. Silva, "IoT-Based Anti-Theft Alarm Using Reed Switch and MQTT Protocol," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton22" onclick="copyToClipboard22()">Copy BibTeX</button>
 
-[21] André Coelho, Marceu Filho, Michel Lutegar, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[21] André Coelho, Marceu Filho, Michel Lutegar, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton21" onclick="copyToClipboard21()">Copy BibTeX</button>
 
-[20] Hudson Assumpção, Rigel P. Fernandes, Anna Beatriz Nunes Barbosa, and Pedro Henrique Portugal Gusman, "Vision-Based fatigue detection using a smartphone," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[20] Hudson Assumpção, Rigel P. Fernandes, Anna Beatriz Nunes Barbosa, and Pedro Henrique Portugal Gusman, "Vision-Based fatigue detection using a smartphone," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton20" onclick="copyToClipboard20()">Copy BibTeX</button>
 
-[19] Raphael Serraino Theil Meres, Thiago Silva de Souza, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[19] Raphael Serraino Theil Meres, Thiago Silva de Souza, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton19" onclick="copyToClipboard19()">Copy BibTeX</button>
 
-[18] Caio de Souza de Medeiros e Rigel P. Fernandes, "Detecção de Vagas de Estacionamento Baseada em Visão Computacional com Mínima Intervenção Humana," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[18] Caio de Souza de Medeiros e Rigel P. Fernandes, "Detecção de Vagas de Estacionamento Baseada em Visão Computacional com Mínima Intervenção Humana," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton18" onclick="copyToClipboard18()">Copy BibTeX</button>
 
-[17] Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Rigel P. Fernandes, and Thiago Silva de Souza, "A Computer Vision-Based System for Monitoring Liveness in Remote Work," in XLIII Brazilian Symposium on Telecommunications and Signal Procesing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. **(Accepted for publication)**
+[17] Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Rigel P. Fernandes, and Thiago Silva de Souza, "A Computer Vision-Based System for Monitoring Liveness in Remote Work," in XLIII Brazilian Symposium on Telecommunications and Signal Procesing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. <button id="copyButton17" onclick="copyToClipboard17()">Copy BibTeX</button>
 
 [16] Breno Gomes Storch, Rigel P. Fernandes e Allyson Andrade da Silva, "Estudo comparativo de algoritmos aplicados à navegação de veículos de superfície não tripulados,” in XXVII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2025, São José dos Campos, SP, Brazil, 23-25 de setembro 2025. Available: [https://www.sige.ita.br/edicoes-anteriores/2025/TRABALHOS/Artigo/247875_1](https://www.sige.ita.br/edicoes-anteriores/2025/TRABALHOS/Artigo/247875_1%20-%20Estudo%20comparativo%20de%20algoritmos%20aplicados%20%c3%a0%20navega%c3%a7%c3%a3o%20de%20ve%c4%b1%cc%81culos%20de%20superf%c4%b1%cc%81cie%20n%c3%a3o%20tripulados.pdf){:target="_blank"}
 
@@ -69,6 +69,175 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
+
+function copyToClipboard23() {
+  const bibtex =
+`@inproceedings{fernandes2025Low,
+  title = {A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation},
+  author = {Caio Rangel Fernandes and Marcio Moreira do Nascimento Filho and Filipe Oliveira de Saldanha da Gama and Rafael Senra Donner Jorge and Rigel P. Fernandes and Thiago Silva de Souza and Clayton Jones Alves da Silva},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton23 = document.getElementById('copyButton23');
+    copyButton23.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton23.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard22() {
+  const bibtex =
+`@inproceedings{oliveira2025IoT,
+  title = {IoT-Based Anti-Theft Alarm Using Reed Switch and MQTT Protocol},
+  author = {Paula Luiza Rocha de Oliveira and Guilherme Pinto Weil Bastos and Gabriel Lacerda da Fontoura and Maria Giulia Pessanha and William Fagundes and Rigel P. Fernandes and Clayton J. A. Silva},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton22 = document.getElementById('copyButton22');
+    copyButton22.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton22.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard21() {
+  const bibtex =
+`@inproceedings{coelho2025Comparative,
+  title = {Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems},
+  author = {André Coelho and Marceu Filho and Michel Lutegar and Rigel P. Fernandes and Thiago Silva de Souza and Clayton J. A. Silva},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton21 = document.getElementById('copyButton21');
+    copyButton21.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton21.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard20() {
+  const bibtex =
+`@inproceedings{assumpcao2025Vision,
+  title = {Vision-Based Fatigue Detection Using a Smartphone},
+  author = {Hudson Assumpção and Rigel P. Fernandes and Anna Beatriz Nunes Barbosa and Pedro Henrique Portugal Gusman},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton20 = document.getElementById('copyButton20');
+    copyButton20.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton20.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard19() {
+  const bibtex =
+`@inproceedings{meres2025Stemuc,
+  title = {Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration},
+  author = {Raphael Serraino Theil Meres and Thiago Silva de Souza and Rigel P. Fernandes and Cassius M. do C. Figueiredo},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton19 = document.getElementById('copyButton19');
+    copyButton19.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton19.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard18() {
+  const bibtex =
+`@inproceedings{medeiros2025Deteccao,
+  title = {Detecção de Vagas de Estacionamento Baseada em Visão Computacional com Mínima Intervenção Humana},
+  author = {Caio de Souza de Medeiros and Rigel P. Fernandes},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton18 = document.getElementById('copyButton18');
+    copyButton18.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton18.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard17() {
+  const bibtex =
+`@inproceedings{gama2025Computer,
+  title = {A Computer Vision-Based System for Monitoring Liveness in Remote Work},
+  author = {Filipe Oliveira de Saldanha da Gama and Rafael Senra Donner Jorge and Caio Rangel Fernandes and Marcio Moreira do Nascimento Filho and Rigel P. Fernandes and Thiago Silva de Souza},
+  booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
+  year = {2025},
+  address={Natal, RN, Brazil},
+  month={29 September - 02 October},
+  publisher = {Sociedade Brasileira de Telecomunicações},
+  note = {(Accepted for publication)}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton17 = document.getElementById('copyButton17');
+    copyButton17.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton17.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
 function copyToClipboard15() {
   const bibtex =
 `@inproceedings{assumpcao2024estacionamento,
