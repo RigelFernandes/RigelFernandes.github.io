@@ -80,7 +80,7 @@ function copyToClipboard23() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url = {http://dx.doi.org/10.14209/sbrt.2025.1571157370}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -104,7 +104,7 @@ function copyToClipboard22() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url={http://dx.doi.org/10.14209/sbrt.2025.1571157343}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -128,7 +128,7 @@ function copyToClipboard21() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url={http://dx.doi.org/10.14209/sbrt.2025.1571157335}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -152,7 +152,7 @@ function copyToClipboard20() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url={http://dx.doi.org/10.14209/sbrt.2025.1571157331}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -176,7 +176,7 @@ function copyToClipboard19() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url={http://dx.doi.org/10.14209/sbrt.2025.1571157327}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -200,7 +200,7 @@ function copyToClipboard18() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url={http://dx.doi.org/10.14209/sbrt.2025.1571157303}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -224,7 +224,7 @@ function copyToClipboard17() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  note = {(Accepted for publication)}
+  url={http://dx.doi.org/10.14209/sbrt.2025.1571143918}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
