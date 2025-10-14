@@ -10,19 +10,19 @@ layout: post
 
 [24] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. **(Accepted for publication)**
 
-[23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571157370](http://dx.doi.org/10.14209/sbrt.2025.1571157370){:target="_blank"} <button id="copyButton23" onclick="copyToClipboard23()">Copy BibTeX</button>
+[23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157370](http://doi.org/10.14209/sbrt.2025.1571157370){:target="_blank"} <button id="copyButton23" onclick="copyToClipboard23()">Copy BibTeX</button>
 
-[22] Paula Luiza Rocha de Oliveira, Guilherme Pinto Weil Bastos, Gabriel Lacerda da Fontoura, Maria Giulia Pessanha, William Fagundes, Rigel P. Fernandes, and Clayton J. A. Silva, "IoT-Based Anti-Theft Alarm Using Reed Switch and MQTT Protocol," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571157343](http://dx.doi.org/10.14209/sbrt.2025.1571157343){:target="_blank"} <button id="copyButton22" onclick="copyToClipboard22()">Copy BibTeX</button>
+[22] Paula Luiza Rocha de Oliveira, Guilherme Pinto Weil Bastos, Gabriel Lacerda da Fontoura, Maria Giulia Pessanha, William Fagundes, Rigel P. Fernandes, and Clayton J. A. Silva, "IoT-Based Anti-Theft Alarm Using Reed Switch and MQTT Protocol," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157343](http://doi.org/10.14209/sbrt.2025.1571157343){:target="_blank"} <button id="copyButton22" onclick="copyToClipboard22()">Copy BibTeX</button>
 
-[21] André Coelho, Marceu Filho, Michel Lutegar, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571157335](http://dx.doi.org/10.14209/sbrt.2025.1571157335){:target="_blank"} <button id="copyButton21" onclick="copyToClipboard21()">Copy BibTeX</button>
+[21] André Coelho, Marceu Filho, Michel Lutegar, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157335](http://doi.org/10.14209/sbrt.2025.1571157335){:target="_blank"} <button id="copyButton21" onclick="copyToClipboard21()">Copy BibTeX</button>
 
-[20] Hudson Assumpção, Rigel P. Fernandes, Anna Beatriz Nunes Barbosa, and Pedro Henrique Portugal Gusman, "Vision-Based fatigue detection using a smartphone," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571157331](http://dx.doi.org/10.14209/sbrt.2025.1571157331){:target="_blank"} <button id="copyButton20" onclick="copyToClipboard20()">Copy BibTeX</button>
+[20] Hudson Assumpção, Rigel P. Fernandes, Anna Beatriz Nunes Barbosa, and Pedro Henrique Portugal Gusman, "Vision-Based fatigue detection using a smartphone," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157331](http://doi.org/10.14209/sbrt.2025.1571157331){:target="_blank"} <button id="copyButton20" onclick="copyToClipboard20()">Copy BibTeX</button>
 
-[19] Raphael Serraino Theil Meres, Thiago Silva de Souza, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571157327](http://dx.doi.org/10.14209/sbrt.2025.1571157327){:target="_blank"} <button id="copyButton19" onclick="copyToClipboard19()">Copy BibTeX</button>
+[19] Raphael Serraino Theil Meres, Thiago Silva de Souza, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157327](http://doi.org/10.14209/sbrt.2025.1571157327){:target="_blank"} <button id="copyButton19" onclick="copyToClipboard19()">Copy BibTeX</button>
 
-[18] Caio de Souza de Medeiros e Rigel P. Fernandes, "Detecção de Vagas de Estacionamento Baseada em Visão Computacional com Mínima Intervenção Humana," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571157303](http://dx.doi.org/10.14209/sbrt.2025.1571157303){:target="_blank"} <button id="copyButton18" onclick="copyToClipboard18()">Copy BibTeX</button>
+[18] Caio de Souza de Medeiros e Rigel P. Fernandes, "Detecção de Vagas de Estacionamento Baseada em Visão Computacional com Mínima Intervenção Humana," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157303](http://doi.org/10.14209/sbrt.2025.1571157303){:target="_blank"} <button id="copyButton18" onclick="copyToClipboard18()">Copy BibTeX</button>
 
-[17] Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Rigel P. Fernandes, and Thiago Silva de Souza, "A Computer Vision-Based System for Monitoring Liveness in Remote Work," in XLIII Brazilian Symposium on Telecommunications and Signal Procesing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://dx.doi.org/10.14209/sbrt.2025.1571143918](http://dx.doi.org/10.14209/sbrt.2025.1571143918){:target="_blank"}<button id="copyButton17" onclick="copyToClipboard17()">Copy BibTeX</button>
+[17] Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Rigel P. Fernandes, and Thiago Silva de Souza, "A Computer Vision-Based System for Monitoring Liveness in Remote Work," in XLIII Brazilian Symposium on Telecommunications and Signal Procesing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571143918](http://doi.org/10.14209/sbrt.2025.1571143918){:target="_blank"}<button id="copyButton17" onclick="copyToClipboard17()">Copy BibTeX</button>
 
 [16] Breno Gomes Storch, Rigel P. Fernandes e Allyson Andrade da Silva, "Estudo comparativo de algoritmos aplicados à navegação de veículos de superfície não tripulados,” in XXVII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2025, São José dos Campos, SP, Brazil, 23-25 de setembro 2025. Available: [https://www.sige.ita.br/edicoes-anteriores/2025/TRABALHOS/Artigo/247875_1](https://www.sige.ita.br/edicoes-anteriores/2025/TRABALHOS/Artigo/247875_1%20-%20Estudo%20comparativo%20de%20algoritmos%20aplicados%20%c3%a0%20navega%c3%a7%c3%a3o%20de%20ve%c4%b1%cc%81culos%20de%20superf%c4%b1%cc%81cie%20n%c3%a3o%20tripulados.pdf){:target="_blank"} <button id="copyButton16" onclick="copyToClipboard16()">Copy BibTeX</button>
 
@@ -80,7 +80,7 @@ function copyToClipboard23() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url = {http://dx.doi.org/10.14209/sbrt.2025.1571157370}
+  url = {http://doi.org/10.14209/sbrt.2025.1571157370}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -104,7 +104,7 @@ function copyToClipboard22() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url={http://dx.doi.org/10.14209/sbrt.2025.1571157343}
+  url={http://doi.org/10.14209/sbrt.2025.1571157343}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -128,7 +128,7 @@ function copyToClipboard21() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url={http://dx.doi.org/10.14209/sbrt.2025.1571157335}
+  url={http://doi.org/10.14209/sbrt.2025.1571157335}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -152,7 +152,7 @@ function copyToClipboard20() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url={http://dx.doi.org/10.14209/sbrt.2025.1571157331}
+  url={http://doi.org/10.14209/sbrt.2025.1571157331}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -176,7 +176,7 @@ function copyToClipboard19() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url={http://dx.doi.org/10.14209/sbrt.2025.1571157327}
+  url={http://doi.org/10.14209/sbrt.2025.1571157327}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -200,7 +200,7 @@ function copyToClipboard18() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url={http://dx.doi.org/10.14209/sbrt.2025.1571157303}
+  url={http://doi.org/10.14209/sbrt.2025.1571157303}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -224,7 +224,7 @@ function copyToClipboard17() {
   address={Natal, RN, Brazil},
   month={29 September - 02 October},
   publisher = {Sociedade Brasileira de Telecomunicações},
-  url={http://dx.doi.org/10.14209/sbrt.2025.1571143918}
+  url={http://doi.org/10.14209/sbrt.2025.1571143918}
 }`
     
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -271,7 +271,7 @@ function copyToClipboard15() {
   address={Bel\'em, PA, Brazil},
   month={01-04 October},
   doi = {10.14209/sbrt.2024.1571036315},
-  url = {http://dx.doi.org/10.14209/sbrt.2024.1571036315},
+  url = {http://doi.org/10.14209/sbrt.2024.1571036315},
   publisher = {Sociedade Brasileira de Telecomunica{\c{c}}{\~{o}}es}
 }`
     
@@ -354,8 +354,8 @@ function copyToClipboard12() {
   year = {2023},
   address={Salvador, {BA}, Brazil},
   month={8-11 October},
-  doi = {http://dx.doi.org/10.21528/CBIC2023-115},
-  url = {http://dx.doi.org/10.21528/CBIC2023-115},
+  doi = {http://doi.org/10.21528/CBIC2023-115},
+  url = {http://doi.org/10.21528/CBIC2023-115},
   publisher = {SBIC}
 }`
 
@@ -437,7 +437,7 @@ function copyToClipboard9() {
   address={Florianópolis, SC, Brazil},
   month={22-25 November},
   organization={SBrT},
-  url={http://dx.doi.org/10.14209/SBRT.2020.1570658075},
+  url={http://doi.org/10.14209/SBRT.2020.1570658075},
   doi={10.14209/SBRT.2020.1570658075}
 }`
 
@@ -550,7 +550,7 @@ function copyToClipboard5() {
   address={Santarém, PA, Brazil},
   month={30 August - 2 September},
   doi = {10.14209/sbrt.2016.52},
-  url = {http://dx.doi.org/10.14209/sbrt.2016.52},
+  url = {http://doi.org/10.14209/sbrt.2016.52},
   organization={SBrT}
 }`
 
