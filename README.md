@@ -13,3 +13,5 @@ In this GitBook, you will find various resources for the subjects I teach at IBM
 [IBM3119 - Projeto de Sistemas Embarcados](https://rigelfernandes.github.io/courses/IBM3119/)
 
 [IBM3131/IBM4512 - Visão Computacional](https://rigelfernandes.github.io/courses/IBM3131/)
+
+[IBM8915 - Data Extraction and Preparation](https://rigelfernandes.github.io/courses/IBM8915/)
