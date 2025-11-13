@@ -97,7 +97,7 @@ function copyToClipboard23() {
 function copyToClipboard22() {
   const bibtex =
 `@inproceedings{oliveira2025iot,
-  title = {IoT-Based Anti-Theft Alarm Using Reed Switch and {MQTT} Protocol},
+  title = {{IoT}-Based Anti-Theft Alarm Using Reed Switch and {MQTT} Protocol},
   author = {Paula Luiza Rocha de Oliveira and Guilherme Pinto Weil Bastos and Gabriel Lacerda da Fontoura and Maria Giulia Pessanha and William Fagundes and Rigel P. Fernandes and Clayton J. A. Silva},
   booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
   year = {2025},
