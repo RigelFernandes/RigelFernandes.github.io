@@ -542,7 +542,7 @@ function copyToClipboard6() {
 function copyToClipboard5() {
   const bibtex =
 `@inproceedings{fernandes2016investigating,
-  title={{Investigating the potential of {UAV} for gunshot DoA estimation and shooter localization}},
+  title={Investigating the potential of {UAV} for gunshot DoA estimation and shooter localization},
   author={Rigel Proc{\'o}pio Fernandes  and Angelo Marcio Cardoso Ribeiro Borzino and Ant{\'o}nio Luiz Lopes Ramos and Apolin{\'a}rio, Jr.,  Jos{\'e} Antonio},
   booktitle={XXXIV Simp\'osio Brasileiro de Telecomunica\c{c}\~oes e Processamento de Sinais},
   pages={383--387},
