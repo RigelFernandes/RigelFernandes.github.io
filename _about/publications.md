@@ -73,7 +73,7 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 function copyToClipboard23() {
   const bibtex =
 `@inproceedings{fernandes2025low,
-  title = {A Low-Cost {IoT}-Driven Reuse of Condensate Water for Automated Plant Irrigation},
+  title = {A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation},
   author = {Caio Rangel Fernandes and Marcio Moreira do Nascimento Filho and Filipe Oliveira de Saldanha da Gama and Rafael Senra Donner Jorge and Rigel P. Fernandes and Thiago Silva de Souza and Clayton Jones Alves da Silva},
   booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
   year = {2025},
@@ -97,7 +97,7 @@ function copyToClipboard23() {
 function copyToClipboard22() {
   const bibtex =
 `@inproceedings{oliveira2025iot,
-  title = {{IoT}-Based Anti-Theft Alarm Using Reed Switch and {MQTT} Protocol},
+  title = {IoT-Based Anti-Theft Alarm Using Reed Switch and {MQTT} Protocol},
   author = {Paula Luiza Rocha de Oliveira and Guilherme Pinto Weil Bastos and Gabriel Lacerda da Fontoura and Maria Giulia Pessanha and William Fagundes and Rigel P. Fernandes and Clayton J. A. Silva},
   booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
   year = {2025},
