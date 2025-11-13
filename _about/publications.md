@@ -73,7 +73,7 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 function copyToClipboard23() {
   const bibtex =
 `@inproceedings{fernandes2025low,
-  title = {A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation},
+  title = {A Low-Cost {IoT}-Driven Reuse of Condensate Water for Automated Plant Irrigation},
   author = {Caio Rangel Fernandes and Marcio Moreira do Nascimento Filho and Filipe Oliveira de Saldanha da Gama and Rafael Senra Donner Jorge and Rigel P. Fernandes and Thiago Silva de Souza and Clayton Jones Alves da Silva},
   booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
   year = {2025},
@@ -121,7 +121,7 @@ function copyToClipboard22() {
 function copyToClipboard21() {
   const bibtex =
 `@inproceedings{coelho2025comparative,
-  title = {Comparative Performance Analysis of LoRa and WiFi Technologies for CanSat Communication Systems},
+  title = {Comparative Performance Analysis of {LoRa} and {WiFi} Technologies for CanSat Communication Systems},
   author = {André Coelho and Marceu Filho and Michel Lutegar and Rigel P. Fernandes and Thiago Silva de Souza and Clayton J. A. Silva},
   booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
   year = {2025},
@@ -169,7 +169,7 @@ function copyToClipboard20() {
 function copyToClipboard19() {
   const bibtex =
 `@inproceedings{meres2025stemuc,
-  title = {Stemuc Audio Forge: AI-based Music Source Separation Using Demucs and CUDA Acceleration},
+  title = {Stemuc {Audio Forge}: {AI}-based Music Source Separation Using Demucs and {CUDA} Acceleration},
   author = {Raphael Serraino Theil Meres and Thiago Silva de Souza and Rigel P. Fernandes and Cassius M. do C. Figueiredo},
   booktitle={XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT},
   year = {2025},
@@ -348,7 +348,7 @@ function copyToClipboard12() {
   const bibtex =
 `@inproceedings{fernandes2023enhancing,
   author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Jos{\'{e}} Manoel de Seixas},
-  title = {Enhancing {TDE-based} drone {DoA} estimation with genetic algorithms and zero cyclic sum},
+  title = {Enhancing {TDE}-based drone {DoA} estimation with genetic algorithms and zero cyclic sum},
   pages = {1-7},
   booktitle = {XVI Brazilian Conference on Computational Intelligence},
   year = {2023},
@@ -542,7 +542,7 @@ function copyToClipboard6() {
 function copyToClipboard5() {
   const bibtex =
 `@inproceedings{fernandes2016investigating,
-  title={{Investigating the potential of UAV for gunshot DoA estimation and shooter localization}},
+  title={{Investigating the potential of {UAV} for gunshot DoA estimation and shooter localization}},
   author={Rigel Proc{\'o}pio Fernandes  and Angelo Marcio Cardoso Ribeiro Borzino and Ant{\'o}nio Luiz Lopes Ramos and Apolin{\'a}rio, Jr.,  Jos{\'e} Antonio},
   booktitle={XXXIV Simp\'osio Brasileiro de Telecomunica\c{c}\~oes e Processamento de Sinais},
   pages={383--387},
@@ -678,7 +678,7 @@ function copyToClipboardThesis() {
   const bibtex =
 `@phdthesis{fernandes2025acoustic,
   author={Rigel Procópio Fernandes},
-  title={Acoustic-based drone localization and DOA estimation for highly noisy environments},
+  title={Acoustic-based drone localization and {DOA} estimation for highly noisy environments},
   school={Instituto Militar de Engenharia},
   year={2025},
   address={Rio de Janeiro, RJ, Brazil},
@@ -703,7 +703,7 @@ function copyToClipboardDissertation1() {
   const bibtex =
 `@mastersthesis{fernandes2017analise,
   author={Rigel Procópio Fernandes},
-  title={Análise do movimento de alvos a partir de sinais captados por um VANT},
+  title={Análise do movimento de alvos a partir de sinais captados por um {VANT}},
   school={Instituto Militar de Engenharia},
   year={2017},
   address={Rio de Janeiro, RJ, Brazil},
