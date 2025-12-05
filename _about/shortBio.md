@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-Rigel Procópio Fernandes is an Assitent Professor at Centro Universitário Ibmec and a Computer Engineer at Brazilian Navy. He holds an M.Sc. in Informatics from the Federal University of Rio de Janeiro (2014), an M.Sc. in Defense Engineering from the Military Institute of Engineering (2017), and an D.Sc. in Defense Engineering from the Military Institute of Engineering (2025). His research interests include acoustic-based techniques to detect and estimate DOA and localization, underwater acoustics, military applications of digital signal processing, and computer vision. Prof. Rigel is a member of the Brazilian Telecommunications Society (SBrT).
+Rigel Procópio Fernandes is an Adjunct Professor at Centro Universitário Ibmec and a Computer Engineer at Brazilian Navy. He holds an M.Sc. in Informatics from the Federal University of Rio de Janeiro (2014), an M.Sc. in Defense Engineering from the Military Institute of Engineering (2017), and an D.Sc. in Defense Engineering from the Military Institute of Engineering (2025). His research interests include acoustic-based techniques to detect and estimate DOA and localization, underwater acoustics, military applications of digital signal processing, and computer vision. Prof. Rigel is a member of the Brazilian Telecommunications Society (SBrT).
 
 <div class="academic-icons">
   <a href="https://lattes.cnpq.br/3943389164397216" target="_blank" rel="noopener">
