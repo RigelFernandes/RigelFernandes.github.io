@@ -8,7 +8,7 @@ layout: post
 
 [25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems. **(Submitted in September)**
 
-[24] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. **(Accepted for publication)**
+[24] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. Available: [http://doi.org/10.21528/CBIC2023-115](https://sbia.org.br/eventos/cbic2025/cbic2025-1191901/){:target="_blank"} <button id="copyButton24" onclick="copyToClipboard24()">Copy BibTeX</button>
 
 [23] Caio Rangel Fernandes, Marcio Moreira do Nascimento Filho, Filipe Oliveira de Saldanha da Gama, Rafael Senra Donner Jorge, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton Jones Alves da Silva, "A Low-Cost IoT-Driven Reuse of Condensate Water for Automated Plant Irrigation," in XLIII Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2025, September 29TH to October 2ND, NATAL, RN, Brazil, Sociedade Brasileira de Telecomunicações. Available: [http://doi.org/10.14209/sbrt.2025.1571157370](http://doi.org/10.14209/sbrt.2025.1571157370){:target="_blank"} <button id="copyButton23" onclick="copyToClipboard23()">Copy BibTeX</button>
 
@@ -69,6 +69,32 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
+
+function copyToClipboard24() {
+  const bibtex =
+`@inproceedings{fernandes2023enhancing,
+  author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Jos{\'{e}} Manoel de Seixas},
+  title = {Enhancing {TDE}-based drone {DoA} estimation with genetic algorithms and zero cyclic sum},
+  pages = {1-7},
+  booktitle = {XVI Brazilian Conference on Computational Intelligence},
+  year = {2023},
+  address={Salvador, {BA}, Brazil},
+  month={8-11 October},
+  doi = {http://doi.org/10.21528/CBIC2023-115},
+  url = {http://doi.org/10.21528/CBIC2023-115},
+  publisher = {SBIC}
+}`
+    
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton24 = document.getElementById('copyButton24');
+    copyButton24.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton23.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
 function copyToClipboard23() {
   const bibtex =
