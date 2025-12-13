@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems. **(Submitted in September)**
+[25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems. **(Under Review - 2nd Round)**
 
 [24] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. Available: [https://sbia.org.br/eventos/cbic2025/cbic2025-1191901/](https://sbia.org.br/eventos/cbic2025/cbic2025-1191901/){:target="_blank"} <button id="copyButton24" onclick="copyToClipboard24()">Copy BibTeX</button>
 
