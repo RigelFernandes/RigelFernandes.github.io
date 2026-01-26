@@ -14,4 +14,6 @@ In this GitBook, you will find various resources for the subjects I teach at IBM
 
 [IBM3131 - Visão Computacional / IBM4512 - Computer Vision](https://rigelfernandes.github.io/courses/IBM3131/)
 
+[IBM3903 - AI for Marketing](https://rigelfernandes.github.io/courses/IBM3903/)
+
 [IBM8915 - Extração e Preparação de Dados](https://rigelfernandes.github.io/courses/IBM8915/)
