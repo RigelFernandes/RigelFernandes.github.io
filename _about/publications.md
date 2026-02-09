@@ -98,15 +98,15 @@ navigator.clipboard.writeText(bibtex).then(function() {
 
 function copyToClipboard24() {
   const bibtex =
-`@inproceedings{fernandes2023enhancing,
-  author = {Rigel Proc{\'o}pio Fernandes and Apolin{\'{a}}rio, Jr., Jos{\'{e}} Antonio and Jos{\'{e}} Manoel de Seixas},
-  title = {Enhancing {TDE}-based drone {DoA} estimation with genetic algorithms and zero cyclic sum},
-  pages = {1-7},
-  booktitle = {XVI Brazilian Conference on Computational Intelligence},
-  year = {2023},
-  address={Salvador, {BA}, Brazil},
-  month={8-11 October},
-  doi = {http://doi.org/10.21528/CBIC2023-115},
+`@inproceedings{lutegar2025investigating,
+  author = {Michel Lutegar and André Coelho and Marceu Filho and Rigel P. Fernandes and Thiago Silva de Souza and and Clayton J. A. Silva},
+  title = {Investigating image pre-processing techniques to enhance Brazilian license plate recognition},
+  pages = {1-8},
+  booktitle = {XVII Brazilian Conference on Computational Intelligence},
+  year = {2025},
+  address={Belo Horizonte, {MG}, Brazil},
+  month={27-30 October},
+  doi = {10.21528/CBIC2023-115},
   url = {http://doi.org/10.21528/CBIC2023-115},
   publisher = {SBIC}
 }`
