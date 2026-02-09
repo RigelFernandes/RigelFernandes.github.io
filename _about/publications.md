@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems, 41(1), 32–43. Available: [https://doi.org/10.14209/jcis.2026.4](https://doi.org/10.14209/jcis.2026.4){:target="_blank"} 
+[25] Rigel P. Fernandes, José A. Apolinário Jr. , Julio Cesar Duarte , and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones,” Journal of Communication and Information Systems, 41(1), 32–43. Available: [https://doi.org/10.14209/jcis.2026.4](https://doi.org/10.14209/jcis.2026.4){:target="_blank"} <button id="copyButton25" onclick="copyToClipboard25()">Copy BibTeX</button>
 
 [24] Michel Lutegar, André Coelho, Marceu Filho, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Investigating image pre-processing techniques to enhance Brazilian license plate recognition,” in XVII Brazilian Conference on Computational Intelligence, Belo Horizonte, MG, Brazil, 27-30 October 2025, Congresso Brasileiro de Inteligência Computacional. Available: [http://doi.org/10.21528/CBIC2025-1191901](http://doi.org/10.21528/CBIC2025-1191901){:target="_blank"} <button id="copyButton24" onclick="copyToClipboard24()">Copy BibTeX</button>
 
@@ -70,6 +70,32 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 
 <script> 
 
+function copyToClipboard25() {
+ const bibtex =
+ `@article{fernandes2026optimization,
+  title={Optimized TDOA-based drone localization with distributed microphones},
+  author={Fernandes, Rigel Procópio and Apolinário Jr., José Antonio and Duarte, Julio Cesar and Seixas, José Manoel de},
+  volume={41},
+  number={1},
+  journal={Journal of Communication and Information Systems},
+  year={2026},
+  month={Feb.},
+  pages={32–43},
+  url={https://jcis.sbrt.org.br/jcis/article/view/947},
+  doi={10.14209/jcis.2026.4}
+}`
+
+navigator.clipboard.writeText(bibtex).then(function() {
+  const copyButton25 = document.getElementById('copyButton25');
+    copyButton25.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton25.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
 function copyToClipboard24() {
   const bibtex =
 `@inproceedings{fernandes2023enhancing,
@@ -89,7 +115,7 @@ function copyToClipboard24() {
     const copyButton24 = document.getElementById('copyButton24');
     copyButton24.innerHTML = 'Copied BibTeX &#10004;';
     setTimeout(function() {
-      copyButton23.innerText = 'Copy BibTeX';
+      copyButton24.innerText = 'Copy BibTeX';
     }, 2000);
   }, function() {
     alert('Failed to copy text to clipboard.');
@@ -108,7 +134,7 @@ function copyToClipboard23() {
   publisher = {Sociedade Brasileira de Telecomunicações},
   url = {http://doi.org/10.14209/sbrt.2025.1571157370}
 }`
-    
+
   navigator.clipboard.writeText(bibtex).then(function() {
     const copyButton23 = document.getElementById('copyButton23');
     copyButton23.innerHTML = 'Copied BibTeX &#10004;';
