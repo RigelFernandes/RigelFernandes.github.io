@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, 52.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"}
+[26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, 52.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"} <button id="copyButton26" onclick="copyToClipboard26()">Copy BibTeX</button>
 
 [25] Rigel P. Fernandes, José A. Apolinário Jr., Julio Cesar Duarte, and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones," Journal of Communication and Information Systems, 41(1), 32–43. Available: [https://doi.org/10.14209/jcis.2026.4](https://doi.org/10.14209/jcis.2026.4){:target="_blank"} <button id="copyButton25" onclick="copyToClipboard25()">Copy BibTeX</button>
 
@@ -72,6 +72,32 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 
 <script> 
 
+function copyToClipboard26() {
+ const bibtex =
+ `@article{IMEfernandes2026optimization,
+  title={Optimized TDOA-based drone localization with distributed microphones},
+  author={Fernandes, Rigel Procópio and Apolinário Jr., José Antonio and Duarte, Julio Cesar and Seixas, José Manoel de},
+  volume={41},
+  number={1},
+  journal={Journal of Communication and Information Systems},
+  year={2026},
+  month={Feb.},
+  pages={32–43},
+  url={https://jcis.sbrt.org.br/jcis/article/view/947},
+  doi={10.14209/jcis.2026.4}
+}`
+
+navigator.clipboard.writeText(bibtex).then(function() {
+  const copyButton26 = document.getElementById('copyButton26');
+    copyButton26.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton26.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+ 
 function copyToClipboard25() {
  const bibtex =
  `@article{fernandes2026optimization,
