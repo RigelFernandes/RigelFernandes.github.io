@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes,"Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, 52.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"}
+[26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, 52.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"}
 
 [25] Rigel P. Fernandes, José A. Apolinário Jr., Julio Cesar Duarte, and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones," Journal of Communication and Information Systems, 41(1), 32–43. Available: [https://doi.org/10.14209/jcis.2026.4](https://doi.org/10.14209/jcis.2026.4){:target="_blank"} <button id="copyButton25" onclick="copyToClipboard25()">Copy BibTeX</button>
 
