@@ -74,17 +74,16 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 
 function copyToClipboard26() {
  const bibtex =
- `@article{IMEfernandes2026optimization,
-  title={Optimized TDOA-based drone localization with distributed microphones},
-  author={Fernandes, Rigel Procópio and Apolinário Jr., José Antonio and Duarte, Julio Cesar and Seixas, José Manoel de},
-  volume={41},
-  number={1},
-  journal={Journal of Communication and Information Systems},
+ `@article{ribeiro2026encenando,
+  title={Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação},
+  author={Vieira Ribeiro, Talita and Silva de Souza, Thiago and Procópio Fernandes, Rigel},
+  volume={52},
+  journal={Cadernos do IME - Série Informática},
   year={2026},
-  month={Feb.},
-  pages={32–43},
-  url={https://jcis.sbrt.org.br/jcis/article/view/947},
-  doi={10.14209/jcis.2026.4}
+  month={fev.},
+  pages={10-25},
+  url={https://www.e-publicacoes.uerj.br/cadinf/article/view/95289},
+  doi={10.12957/cadinf.2025.95289}
 }`
 
 navigator.clipboard.writeText(bibtex).then(function() {
