@@ -34,3 +34,24 @@ Rigel Procópio Fernandes is an Adjunct Professor at Centro Universitário Ibmec
     <span class="ai ai-dblp" title="DBLP"></span>
   </a>
 </div>
+
+<script src="https://unpkg.com/wavesurfer.js@7"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const wavesurfer = WaveSurfer.create({
+        container: '#waveform',
+        waveColor: '#4F81BD',
+        progressColor: '#C0504D',
+        height: 120,
+        responsive: true,
+        url: '/assets/audio/drone.wav'
+    });
+
+    document.getElementById('play').onclick = () => {
+        wavesurfer.playPause();
+    };
+
+});
+</script>
