@@ -117,18 +117,18 @@ LABELS ---> |EADGBe|
     <h2>🎵 Input Mixtures</h2>                       
     <p> Hexaphonic Pickup Input </p>                       
     <audio controls>                       
-        <source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/mixture_mono.wav" type="audio/wav">                       
+        <source src="assets/audio/drone.wav" type="audio/wav">                       
     </audio>                       
                        
     <!-- <p> Hexaphonic Pickup Raw Input </p>                       
     <audio controls>                       
-        <source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/mixture_mono.wav" type="audio/wav">                       
+        <source src="assets/audio/drone.wav" type="audio/wav">                       
     </audio>                       
                         -->
                        
     <p>Microphone Recording</p>                       
     <audio controls>                       
-        <source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/mixture_mono.wav" type="audio/wav">                       
+        <source src="assets/audio/drone.wav" type="audio/wav">                       
     </audio>                       
                        
     <h2>🎛️ Waveforms for String B</h2>                       
@@ -189,12 +189,12 @@ LABELS ---> |EADGBe|
                            
                        
     <div class="audio-container">                       
-        <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/E.wav" type="audio/wav"></audio></div>                       
-        <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/A.wav" type="audio/wav"></audio></div>                       
-        <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/D.wav" type="audio/wav"></audio></div>                       
-        <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/G.wav" type="audio/wav"></audio></div>                       
-        <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/B.wav" type="audio/wav"></audio></div>                       
-        <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/e.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>E</p><audio controls><source src="assets/audio/drone.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>A</p><audio controls><source src="assets/audio/drone.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>D</p><audio controls><source src="assets/audio/drone.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>G</p><audio controls><source src="assets/audio/drone.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>B</p><audio controls><source src="assets/audio/drone.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>e</p><audio controls><source src="assets/audio/drone.wav" type="audio/wav"></audio></div>                       
     </div>                       
     <h2>🔮 Predictions (Hexaphonic Pickup)</h2>                       
     <div class="audio-container">                       
