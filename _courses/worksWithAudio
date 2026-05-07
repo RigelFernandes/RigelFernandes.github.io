@@ -1,0 +1,332 @@
+<!DOCTYPE html>                       
+<html lang="en">                       
+                       
+                       
+                       
+<head>                       
+    <meta charset="UTF-8">                       
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">                       
+    <title>SEPARATE AND TRANSCRIBE - Guitar String Separation Samples</title>                       
+                       
+                       
+    <script src="https://unpkg.com/wavesurfer.js"></script>                       
+    <style>                       
+        body {                       
+            font-family: Arial, sans-serif;                       
+            text-align: center;                       
+        }                       
+        h1 {                       
+            font-size: 3rem;                       
+            font-weight: bold;                       
+            line-height: 1.5;                       
+            margin-bottom: 30px;                       
+        }                       
+                       
+        h1 span {                       
+            display: block;                       
+            font-size: 2.5rem; /* Adjust second line size */                       
+        }                               
+        h2 {
+                margin-top: 30px; /* Adjust this value to your preference */
+            }        
+        .audio-container {                       
+            display: flex;                       
+            justify-content: center;                       
+            align-items: center;                       
+            flex-wrap: wrap;                       
+            gap: 20px;                       
+            margin: 20px 0;                       
+        }                       
+        .audio-box {                       
+            text-align: center;                       
+        }                       
+        .waveform {                       
+            width: 300px;                       
+            height: 80px;                       
+            background-color: #f0f0f0;                       
+            margin-bottom: 10px;                       
+        }                       
+        .waveform-mono {                       
+            width: 300px;                       
+            height: 80px;                       
+            background-color: #f0f0f0;                       
+            margin-bottom: 10px;                       
+        }                               
+        .control-button {                       
+            margin-top: 5px;                       
+            padding: 5px 10px;                       
+            font-size: 14px;                       
+            cursor: pointer;                       
+            background-color: #007bff;                       
+            color: white;                       
+            border: none;                       
+            border-radius: 5px;                       
+        }                       
+        .control-button:hover {                       
+            background-color: #0056b3;                       
+        }                       
+                       
+        #comping-performance {                       
+            font-size: 2.5rem;                       
+            color: #ff4500; /* Add a bright color */                       
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Add a subtle shadow */                       
+            font-weight: bold; /* Make the text bold */                       
+            margin-bottom: 20px;                       
+            /* text-decoration: underline; */                       
+        }                           
+    </style>                       
+</head>                       
+<body>                       
+                       
+    <h1>                       
+        SEPARATE AND TRANSCRIBE                       
+        <span>Guitar String Separation Samples</span>                       
+    </h1>                       
+                           
+    <div class="ascii-art">                       
+        <pre>                       
+            q o  o p                
+            q o  o p                
+            d o  o b                
+            \!!!!!!/                
+STRING      |======|                
+LABELS ---> |EADGBe|                
+            |!!!!!!|                
+            |!!!!!!|                
+            |!!!!!!|                
+            |!!!!!!|                
+            |!!!!!!|                
+            |!!!!!!|                
+            |!!!!!!|                
+            |!!!!!!|                
+        </pre>                       
+    </div>                       
+                       
+                       
+    <h2 id="comping-performance">Comping Performance Example</h2>                       
+                       
+    <h2>🎵 Input Mixtures</h2>                       
+    <p> Hexaphonic Pickup Input </p>                       
+    <audio controls>                       
+        <source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/mixture_mono.wav" type="audio/wav">                       
+    </audio>                       
+                       
+    <!-- <p> Hexaphonic Pickup Raw Input </p>                       
+    <audio controls>                       
+        <source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/mixture_mono.wav" type="audio/wav">                       
+    </audio>                       
+                        -->
+                       
+    <p>Microphone Recording</p>                       
+    <audio controls>                       
+        <source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/mixture_mono.wav" type="audio/wav">                       
+    </audio>                       
+                       
+    <h2>🎛️ Waveforms for String B</h2>                       
+    <div class="audio-container">                       
+        <div class="audio-box">                       
+            <p>Ground Truth</p>                       
+            <div id="waveform-B-ground" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlay('B-ground')">Play / Stop</button>                       
+        </div>                       
+        <div class="audio-box">                       
+            <p>Prediction (Hex)</p>                       
+            <div id="waveform-B-hex" class="waveform"></div>                            
+            <button class="control-button" onclick="togglePlay('B-hex')">Play / Stop</button>                       
+        </div>                       
+        <div class="audio-box">                       
+            <p>Prediction (Mic)</p>                       
+            <div id="waveform-B-mic" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlay('B-mic')">Play / Stop</button>                       
+        </div>                       
+        <div class="audio-box">                       
+            <p>Prediction (GSCustomMic+MDGP)</p>                       
+            <div id="waveform-B-gscust-mdgp" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlay('B-gscust-mdgp')">Play / Stop</button>                       
+        </div>                       
+    </div>                       
+                       
+    <script>                       
+        const files = {                       
+            "B-ground": "audio-separation-examples/00_BN1-129-Eb_comp_hex/B.wav",                       
+            "B-hex": "audio-separation-examples/00_BN1-129-Eb_comp_mix/pred_B.wav",                       
+            "B-mic": "audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_B.wav",                       
+            "B-gscust-mdgp": "audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_B.wav"                       
+        };                       
+                       
+        let players = {};                       
+        Object.keys(files).forEach(id => {                       
+            players[id] = WaveSurfer.create({                       
+                container: `#waveform-${id}`,                       
+                waveColor: "blue",                       
+                progressColor: "red",                       
+                barWidth: 2,                       
+                height: 80,                       
+            });                       
+            players[id].load(files[id]);                       
+        });                       
+                       
+        function togglePlay(id) {                       
+            players[id].isPlaying() ? players[id].pause() : players[id].play();                       
+        }                       
+    </script>                       
+                       
+                       
+                       
+    <h2>🎸 Ground Truth (for all strings)</h2>                       
+    <!-- <div class="ascii-art" style="display: inline; font-family: monospace;"> -->                       
+                       
+                       
+                           
+                       
+    <div class="audio-container">                       
+        <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/E.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/A.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/D.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/G.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/B.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/e.wav" type="audio/wav"></audio></div>                       
+    </div>                       
+    <h2>🔮 Predictions (Hexaphonic Pickup)</h2>                       
+    <div class="audio-container">                       
+        <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/pred_E.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/pred_A.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/pred_D.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/pred_G.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/pred_B.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_hex/pred_e.wav" type="audio/wav"></audio></div>                       
+    </div>                       
+                       
+    <h2>🔮 Predictions (Microphone)</h2>                       
+    <div class="audio-container">                       
+        <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_E.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_A.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_D.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_G.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_B.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_mic/pred_e.wav" type="audio/wav"></audio></div>                       
+    </div>                       
+                       
+                       
+    <h2>🔮 Predictions (GSCustomMic+MDGP)</h2>                       
+    <div class="audio-container">                       
+        <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_E.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_A.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_D.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_G.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_B.wav" type="audio/wav"></audio></div>                       
+        <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_BN1-129-Eb_comp_gscust-mdgp/pred_e.wav" type="audio/wav"></audio></div>                          
+    </div>                       
+                       
+                       
+                       
+    <h2 id="comping-performance">Solo Performance Example</h2>                       
+                       
+    <h2>🎵 Input Mixtures</h2>                       
+                       
+    <p> Hexaphonic Pickup </p>                       
+    <audio controls>                       
+        <source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/mixture_mono.wav" type="audio/wav">                       
+    </audio>                       
+                       
+                       
+    <p>Microphone Recording</p>                       
+    <audio controls>                       
+        <source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/mixture_mono.wav" type="audio/wav">                       
+    </audio>                       
+                       
+    <h2>🎛️ Waveforms for String A</h2>                       
+    <div class="audio-container">                       
+        <div class="audio-box">                       
+            <p>Ground Truth (A)</p>                       
+            <div id="waveform-A-ground-mono" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlaymono('A-ground-mono')">Play / Stop</button>                       
+        </div>                       
+        <div class="audio-box">                       
+            <p>Prediction (Hex)</p>                       
+            <div id="waveform-A-hex-mono" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlaymono('A-hex-mono')">Play / Stop</button>                       
+        </div>                       
+        <div class="audio-box">                       
+            <p>Prediction (Mic)</p>                       
+            <div id="waveform-A-mic-mono" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlaymono('A-mic-mono')">Play / Stop</button>                       
+        </div>                       
+        <div class="audio-box">                       
+            <p>Prediction (GSCustomMic+MDGP)</p>                       
+            <div id="waveform-A-gscust-mdgp-mono" class="waveform"></div>                       
+            <button class="control-button" onclick="togglePlaymono('A-gscust-mdgp-mono')">Play / Stop</button>                       
+        </div>                       
+    </div>                       
+                       
+    <script>                       
+        const files_mono = {                       
+            "A-ground-mono": "audio-separation-examples/00_Funk1-114-Ab_solo_hex/A.wav",                       
+            "A-hex-mono": "audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_A.wav",                       
+            "A-mic-mono": "audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_A.wav",                       
+            "A-gscust-mdgp-mono": "audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_A.wav"                       
+        };                       
+                       
+        let players_mono = {};                       
+        Object.keys(files_mono).forEach(id => {                       
+            players_mono[id] = WaveSurfer.create({                       
+                container: `#waveform-${id}`,                       
+                waveColor: "blue",                       
+                progressColor: "red",                       
+                barWidth: 2,                       
+                height: 80,                       
+            });                       
+            players_mono[id].load(files_mono[id]);                       
+        });                       
+                       
+        function togglePlaymono(id) {                       
+            players_mono[id].isPlaying() ? players_mono[id].pause() : players_mono[id].play();                       
+        }                       
+    </script>                       
+                       
+                       
+<h2>🎸 Ground Truth (for all strings)</h2>                       
+                       
+<div class="audio-container">                       
+    <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/E.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/A.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/D.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/G.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/B.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/e.wav" type="audio/wav"></audio></div>                       
+</div>                       
+<h2>🔮 Predictions (Hexaphonic Pickup)</h2>                       
+<div class="audio-container">                       
+    <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_E.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_A.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_D.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_G.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_B.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_hex/pred_e.wav" type="audio/wav"></audio></div>                       
+</div>                       
+                       
+<h2>🔮 Predictions (Microphone)</h2>                       
+<div class="audio-container">                       
+    <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_E.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_A.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_D.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_G.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_B.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_mic/pred_e.wav" type="audio/wav"></audio></div>                       
+</div>                       
+                       
+                       
+<h2>🔮 Predictions (GSCustomMic+MDGP)</h2>                       
+<div class="audio-container">                       
+    <div class="audio-box"><p>E</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_E.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>A</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_A.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>D</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_D.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>G</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_G.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>B</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_B.wav" type="audio/wav"></audio></div>                       
+    <div class="audio-box"><p>e</p><audio controls><source src="audio-separation-examples/00_Funk1-114-Ab_solo_gscust-mdgp/pred_e.wav" type="audio/wav"></audio></div>                          
+</div>                       
+                       
+
+                       
+</body>                       
+</html>                       
