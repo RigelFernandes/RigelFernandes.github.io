@@ -35,23 +35,28 @@ Rigel Procópio Fernandes is an Adjunct Professor at Centro Universitário Ibmec
   </a>
 </div>
 
+<h2>Drone acoustic signal</h2>
+
+<div id="waveform" style="width:100%; height:140px;"></div>
+
+<button id="play" style="margin-top:10px;">
+  Play / Pause
+</button>
+
 <script src="https://unpkg.com/wavesurfer.js@7"></script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  const wavesurfer = WaveSurfer.create({
+    container: '#waveform',
+    waveColor: '#4F81BD',
+    progressColor: '#C0504D',
+    height: 120,
+    url: '/assets/audio/drone.wav'
+  });
 
-    const wavesurfer = WaveSurfer.create({
-        container: '#waveform',
-        waveColor: '#4F81BD',
-        progressColor: '#C0504D',
-        height: 120,
-        responsive: true,
-        url: '/assets/audio/drone.wav'
-    });
-
-    document.getElementById('play').onclick = () => {
-        wavesurfer.playPause();
-    };
-
+  document.getElementById('play').addEventListener('click', function () {
+    wavesurfer.playPause();
+  });
 });
 </script>
