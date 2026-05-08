@@ -35,7 +35,7 @@ Rigel Procópio Fernandes is an Adjunct Professor at Centro Universitário Ibmec
   </a>
 </div>
 
-<h2>Drone acoustic signal</h2>
+<!-- <h2>Drone acoustic signal</h2>
 
 <div id="waveform" style="width:100%; height:140px;"></div>
 
@@ -59,4 +59,4 @@ document.addEventListener("DOMContentLoaded", function () {
     wavesurfer.playPause();
   });
 });
-</script>
+</script> -->
