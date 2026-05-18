@@ -762,7 +762,7 @@ function copyToClipboardThesis() {
   year={2025},
   address={Rio de Janeiro, RJ, Brazil},
   month={july},
-  url={https://www.repositorio.mar.mil.br/handle/ripcmb/848001}
+  url={https://repositorio.marinha.mil.br/handle/ripcmb/848001}
 }`
 
     navigator.clipboard.writeText(bibtex).then(function() {
