@@ -6,6 +6,8 @@ category: Bio
 layout: post
 ---
 
+[28] Daniel Brandão Lloyd, Thiago Novaes Borsoni, Bernardo de Oliveira Pinto, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
 [27] Guilherme Duran Duran Gea, João Victor Guimarães Campelo, Laura Calleja García-Navas, Rigel P. Fernandes,Talita V. Ribeiro and Clayton J. A. Silva, "Computer Vision Pipeline for Face Shape Classification using Facial Landmarks," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026** 
 
 [26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, vol. 52, 2026.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"} <button id="copyButton26" onclick="copyToClipboard26()">Copy BibTeX</button>
