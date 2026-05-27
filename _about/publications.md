@@ -6,6 +6,8 @@ category: Bio
 layout: post
 ---
 
+[27] Guilherme Duran Duran Gea, João Victor Guimarães Campelo, Laura Calleja García-Navas, Rigel P. Fernandes,Talita V. Ribeiro and Clayton J. A. Silva, "Computer Vision Pipeline for Face Shape Classification using Facial Landmarks," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026** 
+
 [26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, vol. 52, 2026.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"} <button id="copyButton26" onclick="copyToClipboard26()">Copy BibTeX</button>
 
 [25] Rigel P. Fernandes, José A. Apolinário Jr., Julio Cesar Duarte, and José M. de Seixas, "Optimized TDOA-based drone localization with distributed microphones," Journal of Communication and Information Systems, vol. 41, no. 1, pp. 32–43, 2026. Available: [https://doi.org/10.14209/jcis.2026.4](https://doi.org/10.14209/jcis.2026.4){:target="_blank"} <button id="copyButton25" onclick="copyToClipboard25()">Copy BibTeX</button>
