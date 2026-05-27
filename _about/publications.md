@@ -6,6 +6,22 @@ category: Bio
 layout: post
 ---
 
+[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Rigel P. Fernandes (2026). Ethical aspects of face recognition systems. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial, Niterói, RJ, Brasil. SBC. **Submited in May 2026**
+
+[35] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial, Niterói, RJ, Brasil. SBC. **Submited in May 2026**
+
+[34] Isabella Cristina Fonseca Vieira, Luiza Conrado Cordeiro, Fabiano de Amorim Pires Júnior, Breno França Alcaraz Ferreira, Rigel P. Fernandes, Clayton J. A. da Silva and Cassius M. do C. Figueiredo, "Facial Recognition for Event Access Control," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
+[33] João Gabriel Tasca B. Assis, Ewerton Peixoto de Alencar Arrais, Miguel Veiga Gonçalves, Rigel P. Fernandes, Cassius M. do C. Figueiredo and Clayton J. A. Silva, "OlhoNoPreco: Crowdsourcing Grocery Receipts for Regional Price Transparency," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
+[32] Rodrigo Ferrett, João Pedro Santana, Pedro Silvestre, Lucas Alves, Sarah Ferrari and Rigel P. Fernandes, "Minimizing Checkout Time: A Vision-Based Solution for Produce Identification," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
+[31] Rodrigo Passos Rocha, Rigel P. Fernandes, José A. Apolinário Jr. and Natanael Nunes de Moura Junior, "Analysis of a Regular Tetrahedral Array for Underwater DOA Estimation," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
+[30] Bernardo Lobo Marques, Bernardo Moreira Guimarães Gonçalves, Michel de Melo Guimarães, Thiago Neves Monteiro, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "IoT-Based Smart Water Tank Monitoring System," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
+[29] Bernardo Lobo Marques, Bernardo Moreira Guimarães Gonçalves, Michel de Melo Guimarães, Thiago Neves Monteiro, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "IoT-Based Energy Consumption Monitoring System," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
 [28] Daniel Brandão Lloyd, Thiago Novaes Borsoni, Bernardo de Oliveira Pinto, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
 
 [27] Guilherme Duran Duran Gea, João Victor Guimarães Campelo, Laura Calleja García-Navas, Rigel P. Fernandes,Talita V. Ribeiro and Clayton J. A. Silva, "Computer Vision Pipeline for Face Shape Classification using Facial Landmarks," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026** 
