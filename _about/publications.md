@@ -6,9 +6,13 @@ category: Bio
 layout: post
 ---
 
-[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Rigel P. Fernandes (2026). Ethical aspects of face recognition systems. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial, Niterói, RJ, Brasil. SBC. **Submited in May 2026**
+[38] Nicholas Borges de Vasconcelos, Mel Bozzola, Rigel P. Fernandes (2026). Ethical aspects of face recognition systems. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial, Niterói, RJ, Brasil. SBC. **Submited in May 2026**
 
-[35] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial, Niterói, RJ, Brasil. SBC. **Submited in May 2026**
+[37] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial, Niterói, RJ, Brasil. SBC. **Submited in May 2026**
+
+[36] Eduardo F. Parga Carvalho, Samuel de Jesus Monteiro de Barros, Rigel P. Fernandes and Thiago Silva de Souza, "Sound Event Classification with TinyML on ESP32-S3 for Risk Alerting of Hearing-Impaired People in Public Spaces," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+
+[35] Thiago C. Brandão, Thaís A. Bustamante, Ian Esteves, Brenda Mendes, Rigel P. Fernandes , Rodrigo S. Luna, and Cassius M. do C. Figueiredo, "Real-Time Personal Protective Equipment Detection: A Deep Learning Approach," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
 
 [34] Isabella Cristina Fonseca Vieira, Luiza Conrado Cordeiro, Fabiano de Amorim Pires Júnior, Breno França Alcaraz Ferreira, Rigel P. Fernandes, Clayton J. A. da Silva and Cassius M. do C. Figueiredo, "Facial Recognition for Event Access Control," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
 
