@@ -851,3 +851,9 @@ function copyToClipboardDissertation2() {
 }
 
 </script>
+
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
