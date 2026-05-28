@@ -34,9 +34,9 @@ layout: post
 
 [29] Guilherme Duran Duran Gea, João Victor Guimarães Campelo, Laura Calleja García-Navas, Rigel P. Fernandes,Talita V. Ribeiro and Clayton J. A. Silva, "Computer Vision Pipeline for Face Shape Classification using Facial Landmarks," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
 
-[28] Nicholas Borges de Vasconcelos, Mel Bozzola, Rigel P. Fernandes (2026). Ethical aspects of face recognition systems. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial - LAAI-Ethics 2026, September 16TH to 18TH,, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Submited in May 2026**
+[28] Nicholas Borges de Vasconcelos, Mel Bozzola, Rigel P. Fernandes (2026). Ethical aspects of face recognition systems. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH,, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Submited in May 2026**
 
-[27] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In Anais da 2ª Conferência Latino-Americana de Ética em Inteligência Artificial - LAAI-Ethics 2026, September 16TH to 18TH,, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Submited in May 2026**
+[27] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH,, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Submited in May 2026**
 
 [26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, vol. 52, 2026.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"} <button id="copyButton26" onclick="copyToClipboard26()">Copy BibTeX</button>
 
