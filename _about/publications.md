@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[42] Enzo Rafael Guimarães, Talita Vieira Ribeiro, Rigel P. Fernandes e Thiago Silva de Souza, "PetMonitor: Sistema IoT Wearable de Baixo Custo para Monitoramento Cardíaco de Cães de Pelagem Curta," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
+[42] Enzo Rafael Guimarães, Talita Vieira Ribeiro, Rigel P. Fernandes, William de S. Barbosa e Thiago Silva de Souza, "PetMonitor: Sistema IoT Wearable de Baixo Custo para Monitoramento Cardíaco de Cães de Pelagem Curta," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
 
 [41] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
 
