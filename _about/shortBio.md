@@ -16,7 +16,7 @@ Rigel Procópio Fernandes is an Adjunct Professor at Centro Universitário Ibmec
     <span class="fab fa-orcid" title="ORCID"></span>
   </a>  
   <a href="https://www.linkedin.com/in/rigel-fernandes-7929a167/" target="_blank" rel="noopener">
-    <span class="fa fa-linkedin-square" title="LinkedIn"></span>
+    <span class="fab fa-linkedin" title="LinkedIn"></span>
   </a>
   <a href="https://www.researchgate.net/profile/Rigel-Fernandes" target="_blank" rel="noopener">
     <span class="ai ai-researchgate" title="ResearchGate"></span>
