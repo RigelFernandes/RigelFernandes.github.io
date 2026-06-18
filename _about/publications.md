@@ -626,8 +626,8 @@ function copyToClipboard6() {
   const bibtex =
 `@inproceedings{fernandes2017bearings,
   title={Bearings-only aerial shooter localization using a microphone array mounted on a drone},
-  author={Fernandes, Rigel Proc{\'o}pio and Apolin{\'a}rio, Jr., Jos{\'e} A and Ramos, Ant{\'o}nio Luiz Lopes},
-  booktitle={2017 IEEE 8th Latin American Symposium on Circuits \& Systems (LASCAS)},
+  author={Fernandes, Rigel Procópio and Apolinário, Jr., José A and Ramos, Antonio Luiz Lopes},
+  booktitle={2017 IEEE 8th Latin American Symposium on Circuits & Systems (LASCAS)},
   pages={1--4},
   year={2017},
   address={Bariloche, Argentina},
