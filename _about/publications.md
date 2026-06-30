@@ -6,6 +6,8 @@ category: Bio
 layout: post
 ---
 
+[44] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
+
 [43] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
 
 [42] Enzo Rafael Guimarães, Talita Vieira Ribeiro, Rigel P. Fernandes, William de S. Barbosa e Thiago Silva de Souza, "PetMonitor: Sistema IoT Wearable de Baixo Custo para Monitoramento Cardíaco de Cães de Pelagem Curta," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Submited in May 2026**
