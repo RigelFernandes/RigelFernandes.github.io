@@ -12,7 +12,7 @@ layout: post
 
 [37] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
 
-[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Accepted for publication
+[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
 
 [35] Esther de Yeshua M. Pessanha, Victor A. Azevedo Costa Santos, Rigel P. Fernandes, Thiago Silva de Souza, "Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
 
