@@ -12,25 +12,25 @@ layout: post
 
 [37] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
 
-[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
 
-[35] Esther de Yeshua M. Pessanha, Victor A. Azevedo Costa Santos, Rigel P. Fernandes, Thiago Silva de Souza, "Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[35] Esther de Yeshua M. Pessanha, Victor A. Azevedo Costa Santos, Rigel P. Fernandes, Thiago Silva de Souza, "Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton35" onclick="copyToClipboard35()">Copy BibTeX</button>
 
-[34] Mateus Padilha Carestiato Daniel, Breno de Souza Moraes Rego, João Gabriel Rodriguez, Gabriel Franklin Monteiro, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "A Computer Vision Approach to Prevent Screen Photographing and Ensure LGPD Compliance," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[34] Mateus Padilha Carestiato Daniel, Breno de Souza Moraes Rego, João Gabriel Rodriguez, Gabriel Franklin Monteiro, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "A Computer Vision Approach to Prevent Screen Photographing and Ensure LGPD Compliance," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton34" onclick="copyToClipboard34()">Copy BibTeX</button>
 
-[33] Eduardo F. Parga Carvalho, Samuel de Jesus Monteiro de Barros, Rigel P. Fernandes and Thiago Silva de Souza, "Sound Event Classification with TinyML on ESP32-S3 for Risk Alerting of Hearing-Impaired People in Public Spaces," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[33] Eduardo F. Parga Carvalho, Samuel de Jesus Monteiro de Barros, Rigel P. Fernandes and Thiago Silva de Souza, "Sound Event Classification with TinyML on ESP32-S3 for Risk Alerting of Hearing-Impaired People in Public Spaces," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton33" onclick="copyToClipboard33()">Copy BibTeX</button>
 
-[32] Rodrigo Ferrett, João Pedro Santana, Pedro Silvestre, Lucas Alves, Sarah Ferrari and Rigel P. Fernandes, "Minimizing Checkout Time: A Vision-Based Solution for Produce Identification," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[32] Rodrigo Ferrett, João Pedro Santana, Pedro Silvestre, Lucas Alves, Sarah Ferrari and Rigel P. Fernandes, "Minimizing Checkout Time: A Vision-Based Solution for Produce Identification," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton32" onclick="copyToClipboard32()">Copy BibTeX</button>
 
-[31] Rodrigo Passos Rocha, Rigel P. Fernandes, José A. Apolinário Jr. and Natanael Nunes de Moura Junior, "Analysis of a Regular Tetrahedral Array for Underwater DOA Estimation," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[31] Rodrigo Passos Rocha, Rigel P. Fernandes, José A. Apolinário Jr. and Natanael Nunes de Moura Junior, "Analysis of a Regular Tetrahedral Array for Underwater DOA Estimation," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton31" onclick="copyToClipboard31()">Copy BibTeX</button>
 
-[30] Bernardo Lobo Marques, Bernardo Moreira Guimarães Gonçalves, Michel de Melo Guimarães, Thiago Neves Monteiro, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "IoT-Based Smart Water Tank Monitoring System," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[30] Bernardo Lobo Marques, Bernardo Moreira Guimarães Gonçalves, Michel de Melo Guimarães, Thiago Neves Monteiro, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "IoT-Based Smart Water Tank Monitoring System," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton30" onclick="copyToClipboard30()">Copy BibTeX</button>
 
-[29] Daniel Brandão Lloyd, Thiago Novaes Borsoni, Bernardo de Oliveira Pinto, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication**
+[29] Daniel Brandão Lloyd, Thiago Novaes Borsoni, Bernardo de Oliveira Pinto, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton29" onclick="copyToClipboard29()">Copy BibTeX</button>
 
-[28] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, Thiago Souza (2026). Ethical aspects of face recognition systems. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Accepted for publication**
+[28] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, Thiago Souza (2026). Ethical aspects of face recognition systems. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Accepted for publication** <button id="copyButton28" onclick="copyToClipboard28()">Copy BibTeX</button>
 
-[27] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes, Thiago Souza, Victor A. Azevedo Costa Santos (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Accepted for publication**
+[27] Enzo Tarrade, Mekki Ouhoud, Mel Bozzola, Rigel P. Fernandes, Thiago Souza, Victor A. Azevedo Costa Santos (2026). Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Accepted for publication** <button id="copyButton27" onclick="copyToClipboard27()">Copy BibTeX</button>
 
 [26] Talita Vieira Ribeiro, Thiago Silva de Souza, and Rigel Procópio Fernandes, "Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação," Cadernos do IME - Série Informática, vol. 52, 2026.  Available: [https://doi.org/10.12957/cadinf.2025.95289](https://doi.org/10.12957/cadinf.2025.95289){:target="_blank"} <button id="copyButton26" onclick="copyToClipboard26()">Copy BibTeX</button>
 
@@ -97,6 +97,264 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
+
+ function copyToClipboard36() {
+  const bibtex =
+`@inproceedings{vasconcelos2026designing,
+  title={Designing a Face Recognition System for Event Photography},
+  author={Borges de Vasconcelos, Nicholas and Bozzola, Mel and Bennet Bleiel, Adam and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton36 = document.getElementById('copyButton36');
+    copyButton36.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton36.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard35() {
+  const bibtex =
+`@inproceedings{pessanha2026development,
+  title={Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired},
+  author={de Yeshua M. Pessanha, Esther and Santos, Victor A. Azevedo Costa and Fernandes, Rigel P. and Silva de Souza, Thiago},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton35 = document.getElementById('copyButton35');
+    copyButton35.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton35.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard34() {
+  const bibtex =
+`@inproceedings{daniel2026computer,
+  title={A Computer Vision Approach to Prevent Screen Photographing and Ensure {LGPD} Compliance},
+  author={Padilha Carestiato Daniel, Mateus and de Souza Moraes Rego, Breno and Rodriguez, João Gabriel and Franklin Monteiro, Gabriel and Fernandes, Rigel P. and do C. Figueiredo, Cassius M.},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton34 = document.getElementById('copyButton34');
+    copyButton34.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton34.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard33() {
+  const bibtex =
+`@inproceedings{carvalho2026sound,
+  title={Sound Event Classification with {TinyML} on {ESP32-S3} for Risk Alerting of Hearing-Impaired People in Public Spaces},
+  author={Parga Carvalho, Eduardo F. and de Jesus Monteiro de Barros, Samuel and Fernandes, Rigel P. and Silva de Souza, Thiago},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton33 = document.getElementById('copyButton33');
+    copyButton33.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton33.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard32() {
+  const bibtex =
+`@inproceedings{ferrett2026minimizing,
+  title={Minimizing Checkout Time: A Vision-Based Solution for Produce Identification},
+  author={Ferrett, Rodrigo and Santana, João Pedro and Silvestre, Pedro and Alves, Lucas and Ferrari, Sarah and Fernandes, Rigel P.},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton32 = document.getElementById('copyButton32');
+    copyButton32.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton32.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard31() {
+  const bibtex =
+`@inproceedings{rocha2026analysis,
+  title={Analysis of a Regular Tetrahedral Array for Underwater {DOA} Estimation},
+  author={Passos Rocha, Rodrigo and Fernandes, Rigel P. and Apolinário Jr., José A. and Nunes de Moura Junior, Natanael},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton31 = document.getElementById('copyButton31');
+    copyButton31.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton31.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard30() {
+  const bibtex =
+`@inproceedings{marques2026iot,
+  title={{IoT}-Based Smart Water Tank Monitoring System},
+  author={Lobo Marques, Bernardo and Moreira Guimarães Gonçalves, Bernardo and de Melo Guimarães, Michel and Neves Monteiro, Thiago and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton30 = document.getElementById('copyButton30');
+    copyButton30.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton30.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard29() {
+  const bibtex =
+`@inproceedings{lloyd2026automatic,
+  title={Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems},
+  author={Brandão Lloyd, Daniel and Novaes Borsoni, Thiago and de Oliveira Pinto, Bernardo and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
+  booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
+  series={SBrT 2026},
+  year={2026},
+  month={sep.},
+  address={Salvador, BA, Brazil},
+  organization={Sociedade Brasileira de Telecomunicações},
+  note={Accepted for publication}
+}`;
+
+navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton29 = document.getElementById('copyButton29');
+    copyButton29.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton29.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+
+function copyToClipboard28() {
+  const bibtex =
+`@inproceedings{vasconcelos2026ethical,
+  title={Ethical Aspects of Face Recognition Systems},
+  author={Borges de Vasconcelos, Nicholas and Bozzola, Mel and Bleiel, Adam and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Souza, Thiago},
+  booktitle={Proceedings of the 2nd Latin American Ethics on Artificial Intelligence},
+  series={LAAI-Ethics 2026},
+  year={2026},
+  month={sep.},
+  address={Niterói, RJ, Brazil},
+  organization={Sociedade Brasileira de Computação},
+  note={Accepted for publication}
+}`;
+
+navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton28 = document.getElementById('copyButton28');
+    copyButton28.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton28.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard27() {
+  const bibtex =
+`@inproceedings{tarrade2026ethical,
+  title={Ethical Concerns in AI-Generated Virtual Influencer Marketing: Transparency, Trust, and Consumer Protection},
+  author={Tarrade, Enzo and Ouhoud, Mekki and Bozzola, Mel and Fernandes, Rigel P. and Souza, Thiago and Santos, Victor A. Azevedo Costa},
+  booktitle={Proceedings of the 2nd Latin American Ethics on Artificial Intelligence},
+  series={LAAI-Ethics 2026},
+  year={2026},
+  month={sep.},
+  address={Niterói, RJ, Brazil},
+  organization={Sociedade Brasileira de Computação},
+  note={Accepted for publication}
+}`;
+
+navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton27 = document.getElementById('copyButton27');
+    copyButton27.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton27.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
 function copyToClipboard26() {
  const bibtex =
