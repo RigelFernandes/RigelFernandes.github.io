@@ -97,7 +97,7 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
-{% raw %}
+
  function copyToClipboard36() {
   const bibtex =
 `@inproceedings{vasconcelos2026designing,
@@ -257,7 +257,7 @@ function copyToClipboard31() {
 function copyToClipboard30() {
   const bibtex =
 `@inproceedings{marques2026iot,
-  title={{IoT}-Based Smart Water Tank Monitoring System},
+  title={IOT-Based Smart Water Tank Monitoring System},
   author={Lobo Marques, Bernardo and Moreira Guimarães Gonçalves, Bernardo and de Melo Guimarães, Michel and Neves Monteiro, Thiago and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
@@ -1113,7 +1113,7 @@ function copyToClipboardDissertation2() {
     alert('Failed to copy text to clipboard.');
   });
 }
-{% raw %}
+
 </script>
 
 <style>
