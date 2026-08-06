@@ -98,11 +98,11 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 
 <script> 
 
- function copyToClipboard36() {
+function copyToClipboard36() {
   const bibtex =
 `@inproceedings{vasconcelos2026designing,
   title={Designing a Face Recognition System for Event Photography},
-  author={Borges de Vasconcelos, Nicholas and Bozzola, Mel and Bennet Bleiel, Adam and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
+  author={Vasconcelos, Nicholas and Bozzola, Mel and Bleiel, Adam Bennet and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -128,7 +128,7 @@ function copyToClipboard35() {
   const bibtex =
 `@inproceedings{pessanha2026development,
   title={Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired},
-  author={de Yeshua M. Pessanha, Esther and Santos, Victor A. Azevedo Costa and Fernandes, Rigel P. and Silva de Souza, Thiago},
+  author={Pessanha, Esther de Yeshua M. and Santos, Victor A. Azevedo Costa and Fernandes, Rigel P. and Souza, Thiago Silva de},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -154,7 +154,7 @@ function copyToClipboard34() {
   const bibtex =
 `@inproceedings{daniel2026computer,
   title={A Computer Vision Approach to Prevent Screen Photographing and Ensure {LGPD} Compliance},
-  author={Padilha Carestiato Daniel, Mateus and de Souza Moraes Rego, Breno and Rodriguez, João Gabriel and Franklin Monteiro, Gabriel and Fernandes, Rigel P. and do C. Figueiredo, Cassius M.},
+  author={Daniel, Mateus Padilha Carestiato and Rego, Breno de Souza Moraes and Rodriguez, João Gabriel and Monteiro, Gabriel Franklin and Fernandes, Rigel P. and Figueiredo, Cassius M. do C.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -180,7 +180,7 @@ function copyToClipboard33() {
   const bibtex =
 `@inproceedings{carvalho2026sound,
   title={Sound Event Classification with {TinyML} on {ESP32-S3} for Risk Alerting of Hearing-Impaired People in Public Spaces},
-  author={Parga Carvalho, Eduardo F. and de Jesus Monteiro de Barros, Samuel and Fernandes, Rigel P. and Silva de Souza, Thiago},
+  author={Carvalho, Eduardo F. Parga and Barros, Samuel de Jesus Monteiro de and Fernandes, Rigel P. and Souza, Thiago Silva de},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -232,7 +232,7 @@ function copyToClipboard31() {
   const bibtex =
 `@inproceedings{rocha2026analysis,
   title={Analysis of a Regular Tetrahedral Array for Underwater {DOA} Estimation},
-  author={Passos Rocha, Rodrigo and Fernandes, Rigel P. and Apolinário Jr., José A. and Nunes de Moura Junior, Natanael},
+  author={Rocha, Rodrigo Passos and Fernandes, Rigel P. and Apolinário Jr., José A. and Junior, Natanael Nunes de Moura},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -257,8 +257,8 @@ function copyToClipboard31() {
 function copyToClipboard30() {
   const bibtex =
 `@inproceedings{marques2026iot,
-  title={IOT-Based Smart Water Tank Monitoring System},
-  author={Lobo Marques, Bernardo and Moreira Guimarães Gonçalves, Bernardo and de Melo Guimarães, Michel and Neves Monteiro, Thiago and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
+  title={ {IoT}-Based Smart Water Tank Monitoring System},
+  author={Marques, Bernardo Lobo and Gonçalves, Bernardo Moreira Guimarães and Guimarães, Michel de Melo and Monteiro, Thiago Neves and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -284,7 +284,7 @@ function copyToClipboard29() {
   const bibtex =
 `@inproceedings{lloyd2026automatic,
   title={Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems},
-  author={Brandão Lloyd, Daniel and Novaes Borsoni, Thiago and de Oliveira Pinto, Bernardo and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
+  author={Lloyd, Daniel Brandão and Borsoni, Thiago Novaes and Pinto, Bernardo de Oliveira and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -294,7 +294,7 @@ function copyToClipboard29() {
   note={Accepted for publication}
 }`;
 
-navigator.clipboard.writeText(bibtex).then(function() {
+  navigator.clipboard.writeText(bibtex).then(function() {
     const copyButton29 = document.getElementById('copyButton29');
     copyButton29.innerHTML = 'Copied BibTeX &#10004;';
     setTimeout(function() {
@@ -310,7 +310,7 @@ function copyToClipboard28() {
   const bibtex =
 `@inproceedings{vasconcelos2026ethical,
   title={Ethical Aspects of Face Recognition Systems},
-  author={Borges de Vasconcelos, Nicholas and Bozzola, Mel and Bleiel, Adam and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Souza, Thiago},
+  author={Vasconcelos, Nicholas Borges de and Bozzola, Mel and Bleiel, Adam and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Souza, Thiago},
   booktitle={Proceedings of the 2nd Latin American Ethics on Artificial Intelligence},
   series={LAAI-Ethics 2026},
   year={2026},
@@ -320,7 +320,7 @@ function copyToClipboard28() {
   note={Accepted for publication}
 }`;
 
-navigator.clipboard.writeText(bibtex).then(function() {
+  navigator.clipboard.writeText(bibtex).then(function() {
     const copyButton28 = document.getElementById('copyButton28');
     copyButton28.innerHTML = 'Copied BibTeX &#10004;';
     setTimeout(function() {
@@ -330,6 +330,7 @@ navigator.clipboard.writeText(bibtex).then(function() {
     alert('Failed to copy text to clipboard.');
   });
 }
+
 
 function copyToClipboard27() {
   const bibtex =
@@ -345,7 +346,7 @@ function copyToClipboard27() {
   note={Accepted for publication}
 }`;
 
-navigator.clipboard.writeText(bibtex).then(function() {
+  navigator.clipboard.writeText(bibtex).then(function() {
     const copyButton27 = document.getElementById('copyButton27');
     copyButton27.innerHTML = 'Copied BibTeX &#10004;';
     setTimeout(function() {
