@@ -257,7 +257,7 @@ function copyToClipboard31() {
 function copyToClipboard30() {
   const bibtex =
 `@inproceedings{marques2026iot,
-  title={ {IoT}-Based Smart Water Tank Monitoring System},
+  title={IoT-Based Smart Water Tank Monitoring System},
   author={Marques, Bernardo Lobo and Gonçalves, Bernardo Moreira Guimarães and Guimarães, Michel de Melo and Monteiro, Thiago Neves and Fernandes, Rigel P. and Ribeiro, Talita V. and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
