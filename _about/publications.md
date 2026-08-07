@@ -102,7 +102,7 @@ function copyToClipboard36() {
   const bibtex =
 `@inproceedings{vasconcelos2026designing,
   title={Designing a Face Recognition System for Event Photography},
-  author={de Vasconcelos, Nicholas Borges and Bozzola, Mel and Bleiel, Adam Bennet and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
+  author={Vasconcelos, Nicholas Borges de and Bozzola, Mel and Bleiel, Adam Bennet and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
@@ -361,7 +361,7 @@ function copyToClipboard26() {
  const bibtex =
  `@article{ribeiro2026encenando,
   title={Encenando Modelos de Processo de Software em Sala: Um Relato de Experiência com Alunos de Graduação},
-  author={Vieira Ribeiro, Talita and Silva de Souza, Thiago and Procópio Fernandes, Rigel},
+  author={Ribeiro, Talita Vieira and Souza, Thiago Silva de and Fernandes, Rigel Procópio},
   volume={52},
   journal={Cadernos do IME - Série Informática},
   year={2026},
