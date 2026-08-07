@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026. **Submited in July 2026 **
+[39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026. **Submited in July 2026**
 
 [38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
 
