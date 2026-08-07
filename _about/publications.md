@@ -102,7 +102,7 @@ function copyToClipboard36() {
   const bibtex =
 `@inproceedings{vasconcelos2026designing,
   title={Designing a Face Recognition System for Event Photography},
-  author={Vasconcelos, Nicholas and Bozzola, Mel and Bleiel, Adam Bennet and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
+  author={de Vasconcelos, Nicholas Borges and Bozzola, Mel and Bleiel, Adam Bennet and Fernandes, Rigel P. and Santos, Victor A. Azevedo Costa and Silva, Clayton J. A.},
   booktitle={Proceedings of the XLIV Brazilian Symposium on Telecommunications and Signal Processing},
   series={SBrT 2026},
   year={2026},
