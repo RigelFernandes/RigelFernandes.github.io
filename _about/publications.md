@@ -88,7 +88,7 @@ layout: post
 
 **Doctoral thesis**
 
-Rigel Procópio Fernandes, "Acoustic-based drone localization and DOA estimation for highly noisy environments", Ph.D. thesis, Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, july 2025. [https://hdl.handle.net/20.500.14867/848001](https://hdl.handle.net/20.500.14867/848001){:target="_blank"} <button id="copyButtonThesis" onclick="copyToClipboardThesis()">Copy BibTeX</button>
+Rigel Procópio Fernandes, "Acoustic-based drone localization and DOA estimation for highly noisy environments", Ph.D. thesis, Instituto Militar de Engenharia, Rio de Janeiro, RJ, Brazil, july 2025. [https://repositorio.marinha.mil.br/handle/20.500.14867/848001](https://repositorio.marinha.mil.br/handle/20.500.14867/848001){:target="_blank"} <button id="copyButtonThesis" onclick="copyToClipboardThesis()">Copy BibTeX</button>
 
 **Master dissertation**
 
