@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in 2026 XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
+[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026. **Submited in July 2026**
 
