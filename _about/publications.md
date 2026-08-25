@@ -12,7 +12,7 @@ layout: post
 
 [38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton38" onclick="copyToClipboard38()">Copy BibTeX</button>
 
-[37] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton37" onclick="copyToClipboard37()">Copy BibTeX</button>
+[37] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em Visão Computacional e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton37" onclick="copyToClipboard37()">Copy BibTeX</button>
 
 [36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
 
@@ -125,7 +125,7 @@ function copyToClipboard38() {
 function copyToClipboard37() {
   const bibtex =
 `@inproceedings{ribeiro2026arquitetura,
-  title={Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman},
+  title={Arquitetura Hı́brida para Rastreamento e Predição de Trajetória de VANTs Baseada em Visão Computacional e Filtro de Kalman},
   author={Ribeiro, Ighor and Fernandes, Rigel P. and Luna, Gabriel de S.},
   booktitle={XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026},
   year={2026},
