@@ -10,9 +10,9 @@ layout: post
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026. **Submited in July 2026**
 
-[38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
+[38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton38" onclick="copyToClipboard38()">Copy BibTeX</button>
 
-[37] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Submited in June 2026**
+[37] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton37" onclick="copyToClipboard37()">Copy BibTeX</button>
 
 [36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
 
@@ -99,6 +99,50 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
+
+function copyToClipboard38() {
+  const bibtex =
+`@inproceedings{oliveira2026avaliacao,
+  title={Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA},
+  author={de Oliveira, Leandro Kfuri and Fernandes, Rigel Procópio and de Seixas, José Manoel and da Silva, Allyson Andrade},
+  booktitle={XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026},
+  year={2026},
+  address={São José dos Campos, SP, Brazil},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton38 = document.getElementById('copyButton38');
+    copyButton38.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton38.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard37() {
+  const bibtex =
+`@inproceedings{ribeiro2026arquitetura,
+  title={Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em YOLO, CSRT e Filtro de Kalman},
+  author={Ribeiro, Ighor and Fernandes, Rigel P. and Luna, Gabriel de S.},
+  booktitle={XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026},
+  year={2026},
+  address={São José dos Campos, SP, Brazil},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton37 = document.getElementById('copyButton37');
+    copyButton37.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton37.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
 function copyToClipboard36() {
   const bibtex =
