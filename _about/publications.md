@@ -107,7 +107,7 @@ function copyToClipboard39() {
   author={Cicchelli, Bernardo and Batista, Cauan M. and Fernandes, Rigel P. and de Souza, Thiago Silva and Silva, Clayton J. A.},
   booktitle={2026 Symposium on Internet of Things (SIoT)},
   year={2026},
-  month={oct},
+  month={13-15 October},
   address={Campinas, SP, Brazil},
   organization={IEEE},
   note={Accepted for publication}
