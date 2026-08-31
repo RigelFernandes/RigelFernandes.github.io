@@ -8,7 +8,7 @@ layout: post
 
 [40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
 
-[39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026. **Submited in July 2026**
+[39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026, IEEE. **Accepted for publication** <button id="copyButton39" onclick="copyToClipboard39()">Copy BibTeX</button>
 
 [38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton38" onclick="copyToClipboard38()">Copy BibTeX</button>
 
@@ -100,6 +100,30 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 
 <script> 
 
+function copyToClipboard39() {
+  const bibtex =
+`@inproceedings{cicchelli2026low,
+  title={Low-Cost IoT System for Monitoring Fruit Ripening Conditions},
+  author={Cicchelli, Bernardo and Batista, Cauan M. and Fernandes, Rigel P. and de Souza, Thiago Silva and Silva, Clayton J. A.},
+  booktitle={2026 Symposium on Internet of Things (SIoT)},
+  year={2026},
+  month={oct},
+  address={Campinas, SP, Brazil},
+  organization={IEEE},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton39 = document.getElementById('copyButton39');
+    copyButton39.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton39.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+  
 function copyToClipboard38() {
   const bibtex =
 `@inproceedings{oliveira2026avaliacao,
