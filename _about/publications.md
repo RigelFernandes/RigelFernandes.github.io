@@ -6,7 +6,7 @@ category: Bio
 layout: post
 ---
 
-[42] Matheus Rodrigues, Ighor Ribeiro, Rigel Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
+[42] Matheus de Souza Rodrigues, Ighor de Souza Ribeiro, Rigel P. Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
 
 [41] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
 
