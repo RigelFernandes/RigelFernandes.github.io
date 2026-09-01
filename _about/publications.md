@@ -6,6 +6,8 @@ category: Bio
 layout: post
 ---
 
+[43] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+
 [42] Matheus de Souza Rodrigues, Ighor de Souza Ribeiro, Rigel P. Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
 
 [41] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
