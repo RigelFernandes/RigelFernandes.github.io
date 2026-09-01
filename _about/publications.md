@@ -6,6 +6,10 @@ category: Bio
 layout: post
 ---
 
+[42] Matheus Rodrigues, Ighor Ribeiro, Rigel Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
+
+[41] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
+
 [40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026, IEEE. **Accepted for publication** <button id="copyButton39" onclick="copyToClipboard39()">Copy BibTeX</button>
