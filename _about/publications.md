@@ -6,6 +6,8 @@ category: Bio
 layout: post
 ---
 
+[45] Pedro Sacramento, Rigel P. Fernandes, Thiago S. de Souza e Clayton J. A. Silva, “An Investigation of Real-Time Music Information Retrieval Using Smartphones,” in 2nd Latin American Music Information Retrieval Workshop LAMIR 2026, December 14TH - 17TH, Belo Horizonte, MG, Brazil, 2026. **Submited in August 2026**
+
 [44] Rodrigo P. Rocha, Rigel P. Fernandes e Fabricio de A. Bozzi, "Model-Based Matched Filter Calibration Using Environmental and Acoustic Observations in Shallow Water," in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
 [43] Ighor Ribeiro, Rigel P. Fernandes e Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
