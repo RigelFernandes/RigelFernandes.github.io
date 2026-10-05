@@ -6,13 +6,15 @@ category: Bio
 layout: post
 ---
 
-[43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[44] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[42] Rodrigo P. Rocha, Rigel P. Fernandes, and Fabricio de A. Bozzi, "Model-Based Matched Filter Calibration Using Environmental and Acoustic Observations in Shallow Water," in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[43] Rodrigo P. Rocha, Rigel P. Fernandes, and Fabricio de A. Bozzi, "Model-Based Matched Filter Calibration Using Environmental and Acoustic Observations in Shallow Water," in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[41] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication**
+[41] Ighor Ribeiro and Rigel P. Fernandes, "Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery," in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton41" onclick="copyToClipboard41()">Copy BibTeX</button>
+
+[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton40" onclick="copyToClipboard40()">Copy BibTeX</button>
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026, IEEE. **Accepted for publication** <button id="copyButton39" onclick="copyToClipboard39()">Copy BibTeX</button>
 
@@ -105,6 +107,52 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
+
+function copyToClipboard41() {
+  const bibtex =
+`@inproceedings{ribeiro2026maritime,
+  title={Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery},
+  author={Ribeiro, Ighor and Fernandes, Rigel P.},
+  booktitle={XXI Workshop de Visão Computacional (WVC)},
+  year={2026},
+  month={oct},
+  address={Campinas, SP, Brazil},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton41 = document.getElementById('copyButton41');
+    copyButton41.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton41.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+
+function copyToClipboard40() {
+  const bibtex =
+`@inproceedings{lutegar2026ondevice,
+  title={On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract},
+  author={Lutegar, Michel and Severiano, Marina de L. R. and Fernandes, Rigel P. and de Souza, Thiago Silva and Silva, Clayton J. A.},
+  booktitle={XXI Workshop de Visão Computacional (WVC)},
+  year={2026},
+  month={oct},
+  address={Campinas, SP, Brazil},
+  note={Accepted for publication}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton40 = document.getElementById('copyButton40');
+    copyButton40.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton40.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
 function copyToClipboard39() {
   const bibtex =
