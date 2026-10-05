@@ -6,19 +6,13 @@ category: Bio
 layout: post
 ---
 
-[46] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[45] Pedro Sacramento, Rigel P. Fernandes, Thiago S. de Souza, and Clayton J. A. Silva, “An Investigation of Real-Time Music Information Retrieval Using Smartphones,” in 2nd Latin American Music Information Retrieval Workshop LAMIR 2026, December 14TH - 17TH, Belo Horizonte, MG, Brazil, 2026. **Submited in August 2026**
+[42] Rodrigo P. Rocha, Rigel P. Fernandes, and Fabricio de A. Bozzi, "Model-Based Matched Filter Calibration Using Environmental and Acoustic Observations in Shallow Water," in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[44] Rodrigo P. Rocha, Rigel P. Fernandes, and Fabricio de A. Bozzi, "Model-Based Matched Filter Calibration Using Environmental and Acoustic Observations in Shallow Water," in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[41] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[43] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
-
-[42] Matheus de Souza Rodrigues, Ighor de Souza Ribeiro, and Rigel P. Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
-
-[41] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, and Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
-
-[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Submited in August 2026**
+[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication**
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026, IEEE. **Accepted for publication** <button id="copyButton39" onclick="copyToClipboard39()">Copy BibTeX</button>
 
