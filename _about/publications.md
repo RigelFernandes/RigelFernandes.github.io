@@ -18,9 +18,9 @@ layout: post
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026, IEEE. **Accepted for publication** <button id="copyButton39" onclick="copyToClipboard39()">Copy BibTeX</button>
 
-[38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, e Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton38" onclick="copyToClipboard38()">Copy BibTeX</button>
+[38] Leandro Kfuri de Oliveira, Rigel Procópio Fernandes, José Manoel de Seixas, e Allyson Andrade da Silva, "Avaliação de Desempenho e Generalização de Redes Neurais para Classificação Acústica Subaquática no Dataset IARA,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. Available: [https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/avaliacao-de-desempenho-e-generalizacao-de-redes-neurais-para-classificacao-acustica-subaquatica-no-dataset-iara.pdf](https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/avaliacao-de-desempenho-e-generalizacao-de-redes-neurais-para-classificacao-acustica-subaquatica-no-dataset-iara.pdf){:target="_blank"} <button id="copyButton38" onclick="copyToClipboard38()">Copy BibTeX</button>
 
-[37] Ighor Ribeiro, Rigel P. Fernandes, e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em Visão Computacional e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton37" onclick="copyToClipboard37()">Copy BibTeX</button>
+[37] Ighor Ribeiro, Rigel P. Fernandes, e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em Visão Computacional e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. Available: [https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/arquitetura-hibrida-para-rastreamento-e-predicao-de-trajetoria-de-vants-baseada-em-visao-computacional-e-filtro-de-kalman.pdf](https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/arquitetura-hibrida-para-rastreamento-e-predicao-de-trajetoria-de-vants-baseada-em-visao-computacional-e-filtro-de-kalman.pdf){:target="_blank"} <button id="copyButton37" onclick="copyToClipboard37()">Copy BibTeX</button>
 
 [36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
 
@@ -186,6 +186,11 @@ function copyToClipboard38() {
   booktitle={XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026},
   year={2026},
   address={São José dos Campos, SP, Brazil},
+  url = {https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/avaliacao-de-desempenho-e-generalizacao-de-redes-neurais-para-classificacao-acustica-subaquatica-no-dataset-iara.pdf},
+  pages = {206\textendash211},
+  publisher = {Instituto Tecnol\'{o}gico de Aeron\'{a}utica},
+  issn = {1983-7402},
+  
   note={Accepted for publication}
 }`;
 
@@ -208,7 +213,10 @@ function copyToClipboard37() {
   booktitle={XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026},
   year={2026},
   address={São José dos Campos, SP, Brazil},
-  note={Accepted for publication}
+  pages = {138\textendash143},
+  issn = {1983-7402},
+  publisher = {Instituto Tecnol\'{o}gico de Aeron\'{a}utica},
+  url = {https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/arquitetura-hibrida-para-rastreamento-e-predicao-de-trajetoria-de-vants-baseada-em-visao-computacional-e-filtro-de-kalman.pdf}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
