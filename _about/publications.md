@@ -6,11 +6,17 @@ category: Bio
 layout: post
 ---
 
-[44] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[47] Rodrigues Matheus de Souza, Ighor de Souza Ribeiro, and Rigel P. Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in October 2026**
 
-[43] Rodrigo P. Rocha, Rigel P. Fernandes, and Fabricio de A. Bozzi, "Model-Based Matched Filter Calibration Using Environmental and Acoustic Observations in Shallow Water," in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[46] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, and Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in October 2026**
 
-[42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[45] Gabriel Maccachero Araujo, Yuri A. Melo, João P. N. Athademos, Rigel P. Fernandes, Clayton J. A. Silva, and Frederico Sauer, "SmartDose: An Intelligent IoT-Based Medication Dispenser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in October 2026**
+
+[44] Giovanna Perrone, Julia Valente, Maria Eduarda Perpetuo, and Rigel Fernandes, "Mobile-Assisted Organoleptic Evaluation for Museum Preservation: On-Device Damage Detection in the Browser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in October 2026**
+
+[43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+
+[42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication**
 
 [41] Ighor Ribeiro and Rigel P. Fernandes, "Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery," in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton41" onclick="copyToClipboard41()">Copy BibTeX</button>
 
