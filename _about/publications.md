@@ -16,7 +16,7 @@ layout: post
 
 [43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
 
-[42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication**
+[42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication** <button id="copyButton42" onclick="copyToClipboard42()">Copy BibTeX</button>
 
 [41] Ighor Ribeiro and Rigel P. Fernandes, "Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery," in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton41" onclick="copyToClipboard41()">Copy BibTeX</button>
 
@@ -114,6 +114,28 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 
 <script> 
 
+function copyToClipboard42() {
+  const bibtex =
+`@inproceedings{ribeiro2026from,
+  author    = {Ribeiro, Ighor and Fernandes, Rigel P. and de S. Luna, Gabriel},
+  title     = {From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking},
+  booktitle = {Fourth Latin American Workshop on Information Fusion (LAFusion 2026)},
+  location  = {Rio de Janeiro, RJ, Brazil},
+  month     = {November},
+  year      = {2026}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton42 = document.getElementById('copyButton42');
+    copyButton42.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton42.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
+  
 function copyToClipboard41() {
   const bibtex =
 `@inproceedings{ribeiro2026maritime,
