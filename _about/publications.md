@@ -30,7 +30,7 @@ layout: post
 
 [36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571300063](https://doi.org/10.14209/sbrt.2026.1571300063){:target="_blank"} <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
 
-[35] Esther de Yeshua M. Pessanha, Victor A. Azevedo Costa Santos, Rigel P. Fernandes, and Thiago Silva de Souza, "Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton35" onclick="copyToClipboard35()">Copy BibTeX</button>
+[35] Esther de Yeshua M. Pessanha, Victor A. Azevedo Costa Santos, Rigel P. Fernandes, and Thiago Silva de Souza, "Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. [https://doi.org/10.14209/sbrt.2026.1571300007](https://doi.org/10.14209/sbrt.2026.1571300007){:target="_blank"} <button id="copyButton35" onclick="copyToClipboard35()">Copy BibTeX</button>
 
 [34] Mateus Padilha Carestiato Daniel, Breno de Souza Moraes Rego, João Gabriel Rodriguez, Gabriel Franklin Monteiro, Rigel P. Fernandes, and Cassius M. do C. Figueiredo, "A Computer Vision Approach to Prevent Screen Photographing and Ensure LGPD Compliance," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton34" onclick="copyToClipboard34()">Copy BibTeX</button>
 
@@ -296,7 +296,8 @@ function copyToClipboard35() {
   month={sep.},
   address={Salvador, BA, Brazil},
   organization={Sociedade Brasileira de Telecomunicações},
-  note={Accepted for publication}
+  doi={10.14209/sbrt.2026.1571300007},
+  url={https://doi.org/10.14209/sbrt.2026.1571300007}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
