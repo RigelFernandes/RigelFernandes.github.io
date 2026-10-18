@@ -42,7 +42,7 @@ layout: post
 
 [30] Bernardo Lobo Marques, Bernardo Moreira Guimarães Gonçalves, Michel de Melo Guimarães, Thiago Neves Monteiro, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "IoT-Based Smart Water Tank Monitoring System," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571281744](https://doi.org/10.14209/sbrt.2026.1571281744){:target="blank"} <button id="copyButton30" onclick="copyToClipboard30()">Copy BibTeX</button>
 
-[29] Daniel Brandão Lloyd, Thiago Novaes Borsoni, Bernardo de Oliveira Pinto, Rigel P. Fernandes, Talita V. Ribeiro, and Clayton J. A. Silva, "Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton29" onclick="copyToClipboard29()">Copy BibTeX</button>
+[29] Daniel Brandão Lloyd, Thiago Novaes Borsoni, Bernardo de Oliveira Pinto, Rigel P. Fernandes, Talita V. Ribeiro, and Clayton J. A. Silva, "Automatic Fruit and Vegetable Classification Using Deep Learning and Computer Vision: An Approach for Intelligent Weighing Systems," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571281644](https://doi.org/10.14209/sbrt.2026.1571281644){:target="_blank"} <button id="copyButton29" onclick="copyToClipboard29()">Copy BibTeX</button>
 
 [28] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Thiago Souza (2026). Ethical aspects of face recognition systems. In 2nd Latin American Ethics on Artificial Inteligence - LAAI-Ethics 2026, September 16TH to 18TH, Niterói, RJ, Brasil. Sociedade Brasileira de Computação. **Accepted for publication** <button id="copyButton28" onclick="copyToClipboard28()">Copy BibTeX</button>
 
@@ -458,7 +458,8 @@ function copyToClipboard29() {
   month={sep.},
   address={Salvador, BA, Brazil},
   organization={Sociedade Brasileira de Telecomunicações},
-  note={Accepted for publication}
+  doi={10.14209/sbrt.2026.1571281644},
+  url={https://doi.org/10.14209/sbrt.2026.1571281644}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
