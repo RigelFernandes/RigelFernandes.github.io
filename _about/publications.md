@@ -36,7 +36,7 @@ layout: post
 
 [33] Eduardo F. Parga Carvalho, Samuel de Jesus Monteiro de Barros, Rigel P. Fernandes, and Thiago Silva de Souza, "Sound Event Classification with TinyML on ESP32-S3 for Risk Alerting of Hearing-Impaired People in Public Spaces," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571299911](https://doi.org/10.14209/sbrt.2026.1571299911){:target="_blank"} <button id="copyButton33" onclick="copyToClipboard33()">Copy BibTeX</button>
 
-[32] Rodrigo Ferrett, João Pedro Santana, Pedro Silvestre, Lucas Alves, Sarah Ferrari, and Rigel P. Fernandes, "Minimizing Checkout Time: A Vision-Based Solution for Produce Identification," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: <button id="copyButton32" onclick="copyToClipboard32()">Copy BibTeX</button>
+[32] Rodrigo Ferrett, João Pedro Santana, Pedro Silvestre, Lucas Alves, Sarah Ferrari, and Rigel P. Fernandes, "Minimizing Checkout Time: A Vision-Based Solution for Produce Identification," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571299423](https://doi.org/10.14209/sbrt.2026.1571299423){:target="_blank"} <button id="copyButton32" onclick="copyToClipboard32()">Copy BibTeX</button>
 
 [31] Rodrigo Passos Rocha, Rigel P. Fernandes, José A. Apolinário Jr., and Natanael Nunes de Moura Junior, "Analysis of a Regular Tetrahedral Array for Underwater DOA Estimation," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton31" onclick="copyToClipboard31()">Copy BibTeX</button>
 
@@ -377,7 +377,8 @@ function copyToClipboard32() {
   month={sep.},
   address={Salvador, BA, Brazil},
   organization={Sociedade Brasileira de Telecomunicações},
-  note={Accepted for publication}
+  doi={10.14209/sbrt.2026.1571299423},
+  url={https://doi.org/10.14209/sbrt.2026.1571299423}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
