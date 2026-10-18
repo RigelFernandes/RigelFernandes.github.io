@@ -38,7 +38,7 @@ layout: post
 
 [32] Rodrigo Ferrett, João Pedro Santana, Pedro Silvestre, Lucas Alves, Sarah Ferrari, and Rigel P. Fernandes, "Minimizing Checkout Time: A Vision-Based Solution for Produce Identification," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571299423](https://doi.org/10.14209/sbrt.2026.1571299423){:target="_blank"} <button id="copyButton32" onclick="copyToClipboard32()">Copy BibTeX</button>
 
-[31] Rodrigo Passos Rocha, Rigel P. Fernandes, José A. Apolinário Jr., and Natanael Nunes de Moura Junior, "Analysis of a Regular Tetrahedral Array for Underwater DOA Estimation," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton31" onclick="copyToClipboard31()">Copy BibTeX</button>
+[31] Rodrigo Passos Rocha, Rigel P. Fernandes, José A. Apolinário Jr., and Natanael Nunes de Moura Junior, "Analysis of a Regular Tetrahedral Array for Underwater DOA Estimation," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571291478](https://doi.org/10.14209/sbrt.2026.1571291478){:target="_blank"} <button id="copyButton31" onclick="copyToClipboard31()">Copy BibTeX</button>
 
 [30] Bernardo Lobo Marques, Bernardo Moreira Guimarães Gonçalves, Michel de Melo Guimarães, Thiago Neves Monteiro, Rigel P. Fernandes, Talita V. Ribeiro and Clayton J. A. Silva, "IoT-Based Smart Water Tank Monitoring System," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton30" onclick="copyToClipboard30()">Copy BibTeX</button>
 
@@ -404,7 +404,8 @@ function copyToClipboard31() {
   month={sep.},
   address={Salvador, BA, Brazil},
   organization={Sociedade Brasileira de Telecomunicações},
-  note={Accepted for publication}
+  doi={10.14209/sbrt.2026.1571291478},
+  url={https://doi.org/10.14209/sbrt.2026.1571291478}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
