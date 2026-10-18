@@ -28,7 +28,7 @@ layout: post
 
 [37] Ighor Ribeiro, Rigel P. Fernandes, e Gabriel de S. Luna, "Arquitetura Híbrida para Rastreamento e Predição de Trajetória de VANTs Baseada em Visão Computacional e Filtro de Kalman,” in XXVIII Simpósio de Aplicações Operacionais em Áreas de Defesa - SIGE 2026, São José dos Campos, SP, Brazil, 2026. Available: [https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/arquitetura-hibrida-para-rastreamento-e-predicao-de-trajetoria-de-vants-baseada-em-visao-computacional-e-filtro-de-kalman.pdf](https://www.sige.ita.br/edicoes-anteriores/2026/TRABALHOS/Artigos-com-ISSN/arquitetura-hibrida-para-rastreamento-e-predicao-de-trajetoria-de-vants-baseada-em-visao-computacional-e-filtro-de-kalman.pdf){:target="_blank"} <button id="copyButton37" onclick="copyToClipboard37()">Copy BibTeX</button>
 
-[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
+[36] Nicholas Borges de Vasconcelos, Mel Bozzola, Adam Bennet Bleiel, Rigel P. Fernandes, Victor A. Azevedo Costa Santos, and Clayton J. A. Silva, "Designing a Face Recognition System for Event Photography," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. Available: [https://doi.org/10.14209/sbrt.2026.1571300063](https://doi.org/10.14209/sbrt.2026.1571300063){:target="_blank"} <button id="copyButton36" onclick="copyToClipboard36()">Copy BibTeX</button>
 
 [35] Esther de Yeshua M. Pessanha, Victor A. Azevedo Costa Santos, Rigel P. Fernandes, and Thiago Silva de Souza, "Development of a Low-Cost Assistive Device for Scene Description for the Visually Impaired," in XLIV Brazilian Symposium on Telecommunications and Signal Processing - SBrT 2026, September 29TH to October 2ND, SALVADOR, BA, Brazil, Sociedade Brasileira de Telecomunicações. **Accepted for publication** <button id="copyButton35" onclick="copyToClipboard35()">Copy BibTeX</button>
 
@@ -269,7 +269,8 @@ function copyToClipboard36() {
   month={sep.},
   address={Salvador, BA, Brazil},
   organization={Sociedade Brasileira de Telecomunicações},
-  note={Accepted for publication}
+  doi={10.14209/sbrt.2026.1571300063},
+  url={https://doi.org/10.14209/sbrt.2026.1571300063}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
