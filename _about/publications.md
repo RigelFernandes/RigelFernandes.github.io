@@ -963,8 +963,8 @@ function copyToClipboard9() {
   const bibtex =
 `@inproceedings{fernandes2020underwater,
   title={Underwater target classification with optimized feature selection based on Genetic Algorithms},
-  author={Fernandes, Rigel Proc{\'o}pio and Apolin{\'a}rio, Jr., Jos{\'e} Antonio},
-  booktitle={XXXVIII Simp\'osio Brasileiro de Telecomunica\c{c}\~oes e Processamento de Sinais},
+  author={Fernandes, Rigel Procópio and Apolinário, Jr., José Antonio},
+  booktitle={XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais},
   year={2020},
   address={Florianópolis, SC, Brazil},
   month={22-25 November},
