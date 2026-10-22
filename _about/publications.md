@@ -117,7 +117,7 @@ Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia 
 function copyToClipboard43() {
   const bibtex =
 `@inproceedings{medeiros2027context,
-  author    = {Medeiros, Caio de Souza de, Fernandes, Rigel P., and Duarte, Julio Cesar},
+  author    = {Medeiros, Caio de Souza de and Fernandes, Rigel P. and Duarte, Julio Cesar},
   title     = {Context Engineering for Long Horizon Agentic Coding Tasks},
   booktitle = {International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA 2027)},
   location  = {Rio de Janeiro, RJ, Brazil},
