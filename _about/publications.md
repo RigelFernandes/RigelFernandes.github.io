@@ -14,7 +14,7 @@ layout: post
 
 [44] Giovanna Perrone, Julia Valente, Maria Eduarda Perpetuo, and Rigel Fernandes, "Mobile-Assisted Organoleptic Evaluation for Museum Preservation: On-Device Damage Detection in the Browser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in October 2026**
 
-[43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Submited in September 2026**
+[43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication** <button id="copyButton43" onclick="copyToClipboard43()">Copy BibTeX</button>
 
 [42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication** <button id="copyButton42" onclick="copyToClipboard42()">Copy BibTeX</button>
 
@@ -113,6 +113,28 @@ Rigel Procópio Fernandes, "Análise do movimento de alvos a partir de sinais ca
 Rigel Procópio Fernandes, "Análise de investimentos em projetos de tecnologia da informação e comunicação no setor público: uma abordagem baseada na apropriação de benefícios tangíveis e intangíveis", Dissertation (Master’s in Informatics) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil, fevereiro 2014. [http://objdig.ufrj.br/15/teses/826853](http://objdig.ufrj.br/15/teses/826853.pdf){:target="_blank"} <button id="copyButtonDissertation2" onclick="copyToClipboardDissertation2()">Copy BibTeX</button>
 
 <script> 
+
+function copyToClipboard43() {
+  const bibtex =
+`@inproceedings{medeiros2027context,
+  author    = {Medeiros, Caio de Souza de, Fernandes, Rigel P., and Duarte, Julio Cesar},
+  title     = {Context Engineering for Long Horizon Agentic Coding Tasks},
+  booktitle = {International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA 2027)},
+  location  = {Rio de Janeiro, RJ, Brazil},
+  month     = {February},
+  year      = {2027}
+}`;
+
+  navigator.clipboard.writeText(bibtex).then(function() {
+    const copyButton43 = document.getElementById('copyButton43');
+    copyButton43.innerHTML = 'Copied BibTeX &#10004;';
+    setTimeout(function() {
+      copyButton43.innerText = 'Copy BibTeX';
+    }, 2000);
+  }, function() {
+    alert('Failed to copy text to clipboard.');
+  });
+}
 
 function copyToClipboard42() {
   const bibtex =
