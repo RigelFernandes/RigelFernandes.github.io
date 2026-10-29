@@ -16,11 +16,11 @@ layout: post
 
 [43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton43" onclick="copyToClipboard43()">Copy BibTeX</button>
 
-[42] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication** <button id="copyButton42" onclick="copyToClipboard42()">Copy BibTeX</button>
+[42] Ighor Ribeiro and Rigel P. Fernandes, "Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery," in XXI Workshop de Visão Computacional - WVC 2026, November 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton42" onclick="copyToClipboard42()">Copy BibTeX</button>
 
-[41] Ighor Ribeiro and Rigel P. Fernandes, "Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery," in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton41" onclick="copyToClipboard41()">Copy BibTeX</button>
+[41] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, November 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton41" onclick="copyToClipboard41()">Copy BibTeX</button>
 
-[40] Michel Lutegar, Marina de L. R. Severiano, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract,” in XXI Workshop de Visão Computacional - WVC 2026, October 16TH - 18TH, Campinas, SP, Brazil, 2026. **Accepted for publication** <button id="copyButton40" onclick="copyToClipboard40()">Copy BibTeX</button>
+[40] Ighor Ribeiro, Rigel P. Fernandes, and Gabriel de S. Luna, "From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking,” in Fourth Latin American Workshop on Information Fusion - LAFusion 2026, November 6TH, Rio de Janeiro, RJ, Brazil, 2026. **Accepted for publication** <button id="copyButton40" onclick="copyToClipboard40()">Copy BibTeX</button>
 
 [39] Bernardo Cicchelli, Cauan M. Batista, Rigel P. Fernandes, Thiago Silva de Souza, and Clayton J. A. Silva, "Low-Cost IoT System for Monitoring Fruit Ripening Conditions,” in 2026 Symposium on the Internet of Things - SIoT 2026, October 13TH - 15TH, Campinas, SP, Brazil, 2026, IEEE. **Accepted for publication** <button id="copyButton39" onclick="copyToClipboard39()">Copy BibTeX</button>
 
@@ -139,13 +139,14 @@ function copyToClipboard43() {
 
 function copyToClipboard42() {
   const bibtex =
-`@inproceedings{ribeiro2026from,
-  author    = {Ribeiro, Ighor and Fernandes, Rigel P. and de S. Luna, Gabriel},
-  title     = {From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking},
-  booktitle = {Fourth Latin American Workshop on Information Fusion (LAFusion 2026)},
-  location  = {Rio de Janeiro, RJ, Brazil},
-  month     = {November},
-  year      = {2026}
+`@inproceedings{ribeiro2026maritime,
+  title={Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery},
+  author={Ribeiro, Ighor and Fernandes, Rigel P.},
+  booktitle={XXI Workshop de Visão Computacional (WVC)},
+  year={2026},
+  month={oct},
+  address={Campinas, SP, Brazil},
+  note={Accepted for publication}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
@@ -158,12 +159,12 @@ function copyToClipboard42() {
     alert('Failed to copy text to clipboard.');
   });
 }
-  
+
 function copyToClipboard41() {
   const bibtex =
-`@inproceedings{ribeiro2026maritime,
-  title={Maritime Search and Rescue: An Evaluation of Small-Object Detection in UAV Imagery},
-  author={Ribeiro, Ighor and Fernandes, Rigel P.},
+`@inproceedings{lutegar2026ondevice,
+  title={On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract},
+  author={Lutegar, Michel and Severiano, Marina de L. R. and Fernandes, Rigel P. and de Souza, Thiago Silva and Silva, Clayton J. A.},
   booktitle={XXI Workshop de Visão Computacional (WVC)},
   year={2026},
   month={oct},
@@ -184,14 +185,13 @@ function copyToClipboard41() {
 
 function copyToClipboard40() {
   const bibtex =
-`@inproceedings{lutegar2026ondevice,
-  title={On-Device Recognition of Brazilian Mercosur License Plates: ML Kit versus Tesseract},
-  author={Lutegar, Michel and Severiano, Marina de L. R. and Fernandes, Rigel P. and de Souza, Thiago Silva and Silva, Clayton J. A.},
-  booktitle={XXI Workshop de Visão Computacional (WVC)},
-  year={2026},
-  month={oct},
-  address={Campinas, SP, Brazil},
-  note={Accepted for publication}
+`@inproceedings{ribeiro2026from,
+  author    = {Ribeiro, Ighor and Fernandes, Rigel P. and de S. Luna, Gabriel},
+  title     = {From Baseline to FLIT-Tracker: an Experimentally Optimized Pipeline for Infrared Multi-UAV Tracking},
+  booktitle = {Fourth Latin American Workshop on Information Fusion (LAFusion 2026)},
+  location  = {Rio de Janeiro, RJ, Brazil},
+  month     = {November},
+  year      = {2026}
 }`;
 
   navigator.clipboard.writeText(bibtex).then(function() {
