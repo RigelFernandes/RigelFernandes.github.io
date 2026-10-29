@@ -12,7 +12,7 @@ layout: post
 
 [45] Gabriel Maccachero Araujo, Yuri A. Melo, João P. N. Athademos, Rigel P. Fernandes, Clayton J. A. Silva, and Frederico Sauer, "SmartDose: An Intelligent IoT-Based Medication Dispenser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton45" onclick="copyToClipboard45()">Copy BibTeX</button>
 
-[44] Giovanna Perrone, Julia Valente, Maria Eduarda Perpetuo, and Rigel Fernandes, "Mobile-Assisted Organoleptic Evaluation for Museum Preservation: On-Device Damage Detection in the Browser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Submited in October 2026**
+[44] Giovanna Perrone, Julia Valente, Maria Eduarda Perpetuo, and Rigel Fernandes, "Mobile-Assisted Organoleptic Evaluation for Museum Preservation: On-Device Damage Detection in the Browser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton44" onclick="copyToClipboard44()">Copy BibTeX</button>
 
 [43] Caio de Souza de Medeiros, Rigel P. Fernandes, and Julio Cesar Duarte, "Context Engineering for Long Horizon Agentic Coding Tasks," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton43" onclick="copyToClipboard43()">Copy BibTeX</button>
 
