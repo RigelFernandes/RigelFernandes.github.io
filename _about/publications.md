@@ -8,7 +8,7 @@ layout: post
 
 [47] Rodrigues Matheus de Souza, Ighor de Souza Ribeiro, and Rigel P. Fernandes, "Comparing One-Stage Detectors for Maritime Target Detection on USVs," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton47" onclick="copyToClipboard47()">Copy BibTeX</button>
 
-[46] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, and Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Submited in October 2026**
+[46] Kaio Alves, João Gabriel Tasca, Rigel P. Fernandes, and Alvaro Riz de Barros, "Vish: An LLM-Assisted Data Collection and Classification Architecture for Urban Infrastructure Problem Monitoring," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton46" onclick="copyToClipboard46()">Copy BibTeX</button>
 
 [45] Gabriel Maccachero Araujo, Yuri A. Melo, João P. N. Athademos, Rigel P. Fernandes, Clayton J. A. Silva, and Frederico Sauer, "SmartDose: An Intelligent IoT-Based Medication Dispenser," in 2026 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), February 02ND - 04TH, Rio de Janeiro, RJ, Brazil, 2027. **Accepted for publication** <button id="copyButton45" onclick="copyToClipboard45()">Copy BibTeX</button>
 
